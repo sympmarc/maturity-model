@@ -11,16 +11,6 @@
       }
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/cc-data-platform-banner.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
@@ -32,10 +22,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/community-content-updates.md",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/community-content-updates.html"
+          "relative_path": "docs/includes/cc-data-platform-banner.html"
         }
       },
       "version": ""
@@ -51,11 +41,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/content-disclaimer.md"
+        ".html": {
+          "relative_path": "docs/includes/community-content-updates.html"
         }
       },
       "version": ""
@@ -72,10 +62,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
         "resource": {
-          "relative_path": "docs/includes/mm4m365-core-team.md"
+          "relative_path": "docs/includes/content-disclaimer.md"
         }
       },
       "version": ""
@@ -86,6 +76,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/includes/mm4m365-core-team.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/mm4m365-core-team.md"
         }
       },
       "version": ""
@@ -736,6 +736,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/practitioners-calls-archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/principles-of-communication.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/principles-of-communication.html"
         }
       },
       "version": ""
