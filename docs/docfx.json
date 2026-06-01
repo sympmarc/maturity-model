@@ -4,7 +4,8 @@
     "content": [
       {
         "files": [
-          "**/*.{md,yml}"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "_site/**"
@@ -25,8 +26,8 @@
       "templates/material"
     ],
     "globalMetadata": {
-      "_appName": "Maturity Model for microsoft 365",
-      "_appTitle": "Maturity Model for microsoft 365",
+      "_appName": "Maturity Model for Microsoft 365",
+      "_appTitle": "Maturity Model for Microsoft 365",
       "_enableSearch": true,
       "pdf": false
     }

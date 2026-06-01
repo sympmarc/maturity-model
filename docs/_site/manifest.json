@@ -11,16 +11,6 @@
       }
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/cc-data-platform-banner.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
@@ -32,10 +22,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/community-content-updates.md",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/community-content-updates.html"
+          "relative_path": "docs/includes/cc-data-platform-banner.html"
         }
       },
       "version": ""
@@ -52,10 +42,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/content-disclaimer.html"
+          "relative_path": "docs/includes/community-content-updates.html"
         }
       },
       "version": ""
@@ -66,6 +56,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/includes/content-disclaimer.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/content-disclaimer.html"
         }
       },
       "version": ""
@@ -91,21 +91,21 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-practitioners.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/mm4m365-practitioners.md",
       "output": {
         "resource": {
           "relative_path": "docs/includes/mm4m365-practitioners.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
         }
       },
       "version": ""
