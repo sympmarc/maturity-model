@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Maturity Model for Microsoft 365 – Infrastructure Competency | Maturity Model for Microsoft 365 </title>
+      <meta name="viewport" content="width=device-width">
+      <meta name="title" content="Maturity Model for Microsoft 365 – Infrastructure Competency | Maturity Model for Microsoft 365 ">
+    
+    <meta name="description" content="Maturity Model for Microsoft 365 – Infrastructure Competency">
+      <link rel="shortcut icon" href="../media/favicon.ico">
+      <link rel="stylesheet" href="../styles/docfx.vendor.min.css">
+      <link rel="stylesheet" href="../styles/docfx.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta property="docfx:navrel" content="../toc.html">
+      <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    <meta property="docfx:newtab" content="true">
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../media/logo.svg" alt="Maturity Model for Microsoft 365">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first=First data-prev=Previous data-next=Next data-last=Last></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="maturity-model-for-microsoft-365---infrastructure-competency">Maturity Model for Microsoft 365 - Infrastructure Competency</h1>
+
+<div class="NOTE">
+<h5>Note</h5>
+<p>This is an open-source article with the community providing support for it.  For official Microsoft content, see <a href="https://learn.microsoft.com/">Microsoft 365 documentation</a>.</p>
+</div>
+
+<p><img src="media/maturity-model-for-microsoft-365/M365MM.png" alt="Maturity Model for Microsoft 365"></p>
+<h2 id="overview-of-the-concepts-tldr">Overview of the Concepts [tl;dr]</h2>
+<p>Infrastructure is still infrastructure, despite the evolution of the cloud. The principles remain, though the roles and accountability for much of the 'physical' interaction has been handed off to the cloud platform providers. It's important to remember that infrastructure was always about more than the tin and wires, infrastructure encompasses disciplines including networking, security, enterprise architecture, planning, and governance.</p>
+<p>Despite claims to the contrary, the Admin or IT Pro job does not go away when an organization moves to the cloud. There are still administrative decisions to be made and tasks to be accomplished. How well those are performed will impact how much value an organization gets out of their cloud platform.</p>
+<p>It's equally true that organizations still have their own infrastructure, whether in the form of hybrid environments, highly diffused remote workers' technology, and the necessary core infrastructure for connecting to the cloud at all.</p>
+<h2 id="definition-of-this-competency">Definition of this competency</h2>
+<p>The Modern Infrastructure Competency focuses on tasks that are traditionally carried out by IT Pros or administrators. These are tasks that are normally executed during the setup and configuration of a tenant, when new functionality is introduced to the platform, or as part of the process when organization is moving from one level of the Maturity Model to another. They generally impact all users in the tenant and all like objects in the tenant.</p>
+<p>Desktop devices are not covered by this competency, though it should be remembered that these interact with infrastructure and have not been handed off to the cloud provider and need to be managed in order to connect to the organization resources.</p>
+<p><img src="media/microsoft365-maturity-model--infrastructure/ModernInfrastructure.png" alt="Modern Infrastructure"></p>
+<h2 id="evolution-of-this-competency">Evolution of this competency</h2>
+<p>See the <a href="/microsoft-365/community/microsoft365-maturity-model--intro">Maturity Model for Microsoft 365 - Introduction</a> for definitions of the Maturity Model levels. Some characteristics should, perhaps, be addressed a little more urgently than others; we have marked these with the 'Sparkles' emoji: ✨</p>
+<h3 id="level-100---initial">Level 100 - Initial</h3>
+<p>Organizations at this level are usually at the very beginning of their journey into the cloud. They are likely in the middle of, or have recently, migrated into the cloud. They may also be a new smaller business starting out as cloud first. They may be a small business without a dedicated IT staff. Cloud technologies are probably in use since they are easier to provision than on premises technologies to get to the &quot;good enough to do the job&quot; state. It is common for a company to get enough cloud functionality put into place so they can start working on core business and never leave Level 100 and continue to operate with a minimal IT team or have just functional external IT support.</p>
+<p>There may continue to be servers under staff desks, portable hard drives in drawers and a file server for organizational files.</p>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro#level-100---initial"><strong>Initial level</strong></a> characteristics include:</p>
+<h4 id="100-process">100 Process</h4>
+<ul>
+<li>Often, no one is responsible for infrastructure management, and external support may be used on an ad hoc or break-fix basis. Resources are provisioned ad-hoc, when requested. Staff and leadership are unaware of good practice, the importance of this and the impact of their current practices.</li>
+<li>Process changes that are performed are manual, ad hoc, undocumented and done 'in the moment'. Changes are made in a reactive fashion when something breaks, or something is needed.</li>
+<li>Changes are purely application-feature driven and any infrastructure changes are driven by 'having' to do something vs. 'needing' to do something.</li>
+<li>The organization may be using a single environment for development and production but are unaware that there is a difference.</li>
+<li>There may be some use of resource groups, such as distribution lists and security groups, however these lack governance, standardization, granularity, and naming standards.</li>
+<li>Object-like sites, mailboxes, and users are created without a formal request process and with no consideration of how they fit into the wider information architecture.</li>
+<li>User processes are not defined. There are no official onboarding or offboarding processes. User access to shared resources is assigned ad-hoc without a formal request and review process.</li>
+<li>No company-wide business processes are defined.</li>
+<li>No consideration has been given to backup, data recovery, and business continuity.</li>
+<li>Software is largely installed locally and manually, mostly by users.</li>
+<li>Directory services are often not used (AD and/or Microsoft Entra ID for example), with staff able to use local or unmanaged identities.</li>
+</ul>
+<h4 id="100-technology">100 Technology</h4>
+<ul>
+<li>There is no planned network design or management.</li>
+<li>Devices are commonly directly connected to computers rather than via a network.</li>
+<li>There is no device management.</li>
+<li>The organization is unaware of the need to do patch management.</li>
+<li>Single production environment, or small set of static test machines, if any.</li>
+<li>Different hardware, standards, and software are in use.</li>
+<li>There is no disaster recovery plan, so recovery of servers, devices, networks, etc. are rebuilt manually based on memory and Google searches.</li>
+<li>Tools used for admin are based on individual preferences/knowledge, without standardization of organization fit.</li>
+<li>Configurations of sites, applications, etc. created and used with out-of-the-box functionality or based on individual adjustments or knee-jerk lock down. Templates are not used, and provisioning processes are not employed.</li>
+<li>If virtual machines are used at all, these are ungoverned, with no management of resources, event logs, standards, etc.</li>
+</ul>
+<h4 id="100-storage">100 Storage</h4>
+<p><img src="media/microsoft365-maturity-model--infrastructure/Storage.png" alt="Where is it stored?"></p>
+<ul>
+<li>There is no knowledge of storage used across the organization (until they get a bill). This extends to types and location of storage. Storage frequently includes use of removable drives, DVDs, personal storage, and isolated PCs.</li>
+<li>There is no control, management, or standards of storage devices.</li>
+<li>Access control to storage is largely absent; people have access to things they shouldn't and don't have access to things they should.</li>
+<li>No backup for significant proportions of the storage. Backup strategies have not been developed, implemented, or tested.</li>
+</ul>
+<h4 id="100-governance-risk-compliance-and-security">100 Governance, Risk, Compliance and Security</h4>
+<ul>
+<li>No governance is in place for lifecycle management. Objects of all types (files, platforms, services, users, etc.) that are created will exist until they are manually deleted by an administrator.</li>
+<li>Admin access is provided as needed and generally not revoked after use. There are many live admin roles. All Administrators are Global Admins.</li>
+<li>There is no understanding of identity and role-based access.</li>
+<li>Basic security exists but has not been shaped to address the actual business risks.</li>
+<li>Firewall rules are not configured beyond defaults.</li>
+<li>There is no understanding or monitoring of technical risks and hence no programmatic management.</li>
+<li>Remote Desktop Protocol (RDP)/Secure Shell (SSH) access over the Internet is unmanaged.</li>
+<li>Staff devices are able to connect to any networks without policies. Equally, devices can expose resources to other networks and/or devices.</li>
+<li>A single login is used for servers and other resources and shared amongst users and contractors.</li>
+<li>Root account access is available to users.</li>
+<li>Platform security functionality is not leveraged. The focus is on providing access, not securing resources.</li>
+<li>Staff with global level access are not assessed, vetted, or broadly trained (though an effective onboarding process); their contract of employment does not reflect the significant levels of access they have.</li>
+</ul>
+<h4 id="100-impacts">100 Impacts</h4>
+<p>When operating at Level 100, processes are not defined so there is little consistency for users. Similar types of data may be stored in different ways throughout the company or duplicated in several places. It is also difficult to get users and other resources created as there is no defined process. Users do not make efficient use of their time when using cloud technologies as they are constantly looking for things and reinventing processes that others have already done but are not published as standards.</p>
+<p>There are also likely security vulnerabilities as authentication and authorization isn't standardized, and platform security functionality is not likely to be taken advantage of. Files are routinely duplicated, file storage lacks effective structure, search is ineffective.</p>
+<h3 id="level-200---managed">Level 200 - Managed</h3>
+<p>Processes are documented or widely understood to enable (but not enforce) the preferred ways of doing them. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists, it may help to ensure that existing processes are maintained during times of stress.</p>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro#level-200---repeatable"><strong>Repeatable level</strong></a> characteristics include:</p>
+<h4 id="200-process">200 Process</h4>
+<ul>
+<li>There is a person or small team of developers responsible for infrastructure management, possibly with external support. There is an attempt to actively manage environments. They may have a basic knowledge of DevOps principles and good practice, though this is weakly implemented. There has been an attempt to document basic requirements, including basic security principles and operating constraints. These are not reviewed and updated routinely.</li>
+<li>The organization may be using a single environment for development and production but are attempting to mature the approach; or there may be separate environments, however these are not always used as intended.</li>
+<li>Infrastructure management is intended to be proactive but frequently falls back to break-fix with limited proactive intervention.</li>
+<li>✨ Resources provisioning is nominally defined which includes good practice, deviations are frequent and in-the-moment changes increasingly erode the standard build. Staff and leadership continually push infrastructure management person/team to prioritize expediency and performance over good practice and stability. These changes are not reliably documented or updated to better practice subsequently.</li>
+<li>✨ Resource groups, such as distribution lists and security groups, are in use and there is an attempt to maintain these; processes for this are intermittent (typically a monthly, quarterly or annual clean up) and neither comprehensive nor error free.</li>
+<li>Processes for object creation exist, but exceptions to the process frequently arise and there remains a lack of overarching information architecture.</li>
+<li>Onboarding or offboarding processes tend to be manual and are often overlooked or delayed. Role Based Access is attempted, but not well designed. These can lead to inappropriate or absent user access to resources.</li>
+<li>✨ Backup, data recovery and business continuity are in place, but are not routinely tested and do not take future needs into account. Applications can be recovered manually from scheduled backups or redeployed via manual intervention if a failure happens, in the event of a total loss in a region the application and its dependent virtual infrastructure can be recovered from backup, backups are tested occasionally in isolation but falls short of a full business continuity test.</li>
+<li>Updates and changes are batched up into monolithic releases applied periodically, however the impacts of downtime and user productivity are not carefully considered.</li>
+<li>✨ Directory services are in use (Active Directory / Microsoft Entra ID for example).</li>
+<li>There is basic usage of monitoring and alerting, but this is not acted on promptly or reviewed proactively.</li>
+</ul>
+<h4 id="200-technology">200 Technology</h4>
+<ul>
+<li>✨ Separate production and test environments exist, manually maintained, manual releases from dev to test to prod</li>
+<li>A basic network design has been established and the devices involved are understood, though often not remotely managed. There may be use of VPNs private vNets. Directory services are implemented.</li>
+<li>✨ Admin tools are mostly harmonized across the technical team. PowerShell and other automation are used to a limited extent, with some manual housekeeping and extensive use of admin portal interfaces employed in parallel. Scripts mostly are used 'as found' rather than knowledgably crafted for purpose in-house.</li>
+<li>✨ There has been some attempt to standardize hardware, often through selection of preferred suppliers, possibly with support contracts. Most devices are networked connected, but legacy connections exist, especially directly connected printers etc. Centralized device management is not comprehensive.</li>
+<li>✨ A core set of applications and subscriptions is defined; these are implemented on new hardware, but older devices are not necessarily updated.</li>
+<li>✨ Centralized software distribution and patch management exists for core applications/systems. As with other infrastructure aspects, some staff bypass this. The 'standard' installs do not accommodate specific user/role needs, resulting in dark IT and other workarounds.</li>
+<li>Proactive patching is looked at with nervousness in case it introduces instability that is difficult to troubleshoot and isolate.</li>
+<li>✨ There is a basic disaster recovery plan, but this is not well tested or actively maintained, partly due to the wide variety of hardware and software in use.</li>
+</ul>
+<h4 id="200-storage">200 Storage</h4>
+<ul>
+<li>✨ There is an intent to store content appropriately on central file stores, whether local file servers or cloud storage; in practice there is limited compliance with the plan and little enforcement. Removable storage is actively discouraged.</li>
+<li>Attempts are made to manage central storage, including controlling access, monitoring capacity and encouraging removal of content. This is met with some resistance by staff and effectiveness is limited.</li>
+<li>Backup is in place for managed devices; testing is sporadic however and the processes for file ad hoc recovery are not clearly defined.</li>
+</ul>
+<h4 id="200-governance-risk-compliance-and-security">200 Governance, Risk, Compliance and Security</h4>
+<ul>
+<li>Lifecycle management is understood in principle, but weakly applied and without automated processing for retention or disposal. Status flags are used, but content is frequently found past its review, expiry and other control dates. Users do not actively engage in management of content lifecycles.</li>
+<li>✨ Admin access is generally revoked after use, but exceptions frequently occur. There are attempts to limit live admin roles and apply granular roles where possible.</li>
+<li>Identity and role-based access is understood in principle, but real-world implementation of it continues to be a challenge.</li>
+<li>Security is in place but exhibits either or both over-zealous and over-permissive approaches. This includes remote access, mobile device use and other non-office-based modern approaches. The business runs at risk, this is not fully appreciated by leadership.</li>
+<li>Understanding, monitoring and management of technical risks is limited.</li>
+<li>There are holes in network connection policies, sometimes due to active workarounds by staff or at the demand of leadership.</li>
+<li>Log ins for servers and other resources are not robustly managed.</li>
+<li>Platform security functionality is used but is not sophisticated or well understood in scope or depth. Policies are often inconsistent, conflicting or use the defaults.</li>
+<li>✨ Some effort is made to limit and assess staff with global level access; contracts of employment and general staff policies set out appropriate behaviors.</li>
+</ul>
+<h4 id="200-impacts">200 Impacts</h4>
+<p>At this level you can expect the following:</p>
+<p>When operating at Level 200, processes are beginning to emerge but are likely not documented or enforced so users may be frustrated with inconsistent experiences.</p>
+<p>Data is growing and somewhat organized, but no defined, enforced, or automated policies means that there is a lot of manual time spent sorting, moving, and deleting unwanted or unneeded information. Search is beginning to be used more to find things, and duplication increases as the simple navigation experience used at the 100 level is no longer sustainable.</p>
+<p>Regular processes are beginning to follow a regular routine and many of them are documented and repeatable. However, they are still specific to the person doing the task, and communication is not governed or enforced holistically.</p>
+<p>Security becomes more of a concern as user adoption grows, custom features and functionality increases, and citizen development enters the mix. Passwords are stored in some way and service accounts are beginning to be used for processes that cross boundaries.</p>
+<h3 id="level-300---defined">Level 300 - Defined</h3>
+<p>The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or for the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to the next level of maturity.</p>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro#level-300---defined"><strong>Defined level</strong></a> characteristics include:</p>
+<h4 id="300-process">300 Process</h4>
+<ul>
+<li>✨ Most infrastructure requirements, including security, proactive management, operating constraints, patch management and updates are documented and implemented using standard tools. Processes ensure these are reviewed and updated, though not in response to external threats or opportunities. Exceptions and gaps exist but are mostly of low impact.</li>
+<li>✨ Appropriate environments exist for development, testing and production. Processes for moving between these are often manual, though they are actively managed. The team responsible are competent and adequately supported, allowing them to deliver proactive management and create an acceptable level of trust in the organization's systems.</li>
+<li>✨ Processes for the breadth of resource provisioning, resource group availability etc. are consistent with good practice. Exceptions are limited, new systems are piloted and ultimately brought into the overarching process management.</li>
+<li>✨ Staff and leadership respect the role the infrastructure team play, some have attended formal training and achieved industry certifications, however sometimes they expect too much and have limited understanding of the constraints and technological limits. There is some frustration with how long things take and the lack of flexibility.</li>
+<li>Onboarding or offboarding processes are generally effective, with some scripts, notifications and trigger points established. Clean-up tends to occur periodically rather than as a continuous process. Role Based Access is generally effective and access breaches or complaints are infrequent.</li>
+<li>✨ Backup, data recovery and business continuity are in place, tested and are reviewed annually for changes or investments required. Recovery is at least partly automated, allowing reasonably rapid response to issue. The strategy extends beyond recovery into resilience.</li>
+<li>✨ Updates and changes are actively managed, with releases able to accommodate out-of-sequence updates and allow flexibility to accommodate impacts on users and business operations. The business is advised of this in advance and a mechanism for feedback is in place.</li>
+<li>✨ Directory services are well designed, leveraged and mostly up to date. Advanced features, including profiles, hierarchies and extended use of business entities etc. are partly adopted.</li>
+<li>✨ Active monitoring and alerting are employed at processes analyze this data and promptly act on alerts and issues.</li>
+</ul>
+<h4 id="300-technology">300 Technology</h4>
+<ul>
+<li>The network design is well established and updated in response to changes. Analysis and monitoring allow targeted upgrades and design improvements to be acted on, subject to budgets/investment decisions. Most of the network and associated infrastructure can be remotely managed.</li>
+<li>PowerShell and other automation are used extensively, though manual interventions still occur until scripts etc. can be developed.</li>
+<li>Legacy technologies and devices are deprecated or moved to end-of-life in a managed way.</li>
+<li>✨ Centralized software distribution and patch management are effective and offer a degree of adaptability to business and user needs. Changes are typically batched into monolithic releases monthly and require manual Quality Assurance (QA)/User Acceptance Testing (UAT) activity; basic use of telemetry reduces the risk of the release causing degradation to services etc.</li>
+<li>Most hardware, software, tools etc. are standardized and updated as appropriate. There is a residual tendency to use 'proven' technologies and processes for adopting newer options are somewhat slow, such that the organization is behind the curve for some things that might have provided competitive advantage. Standard configurations and templates are widely used and provide a degree of variation according to different business needs. They are updated sufficiently often so that newer capabilities are available to staff.</li>
+<li>Staff generally are content to use the standard facilities provided and can request exceptions in a managed way.</li>
+<li>✨ Virtual machines use is well managed, with orchestration and resilience.</li>
+</ul>
+<h4 id="300-storage">300 Storage</h4>
+<ul>
+<li>✨ Content storage is well understood, with the architecture reflecting performance, resilience, security, access, and content type needs. Legacy content continues to cause pain and duplicates, superseded and unnecessary content persisting despite multiple attempts to address the issue. Access control is similarly in place but not perfect.</li>
+<li>The content strategy responds to current needs and future needs are considered. This encompasses storage volumes, governance and compliance and other known considerations.</li>
+<li>Content and application data backup is effective in most cases.</li>
+</ul>
+<h4 id="300-governance-risk-compliance-and-security">300 Governance, Risk, Compliance and Security</h4>
+<ul>
+<li>Lifecycle management is applied to important content, with some use of retention and disposal flagging. Notifications may alert staff to content approaching and past review, expiry, and other control dates. Some staff are responsible for management of specific content lifecycles.</li>
+<li>✨ Admin access is actively managed, granular, and granted following an effective (but not always timely) process.</li>
+<li>Identity and role-based access (RBAC) is applied, but exceptions exist.</li>
+<li>✨ Security is generally well understood and applied, though unusual use cases may not be accommodated effectively or without 'friction'. The business uses tracking metrics and platform features to assess / benchmark the security profile and work on improvements. Technical risks are broadly understood and have leadership oversight. A broad approach to security using embedded tools in applications, platforms and systems is in place, through the depth of knowledge and ability to maintain this are often limited.</li>
+<li>✨ There are robust processes and contracts in place for staff, contractors, suppliers, and others that may interact with the organization's infrastructure.</li>
+</ul>
+<h4 id="300-impacts">300 Impacts</h4>
+<p>At this level you can expect the following:</p>
+<p>When operating at Level 300 processes are documented and enforced. Automation, audit, and testing are a regular part of each process allowing for bandwidth to create proactive processes and tasks.</p>
+<p>Data is more organized by area or application and most likely is being accessed via some sort of enterprise master data management architecture. Data governance is beginning to emerge organically and more advanced features such as compliance, Data Loss Prevention (DLP), and eDiscovery are being used to identify and manage data.</p>
+<p>Process management is becoming well defined, documented, and enforced. Users know what to expect and how to interact with each process. Repetitive tasks and ongoing processes are automated and error handling is part of that process.</p>
+<p>Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.</p>
+<h3 id="level-400---predictable">Level 400 - Predictable</h3>
+<p>The process is actively managed in accordance with agreed processes and has tracked metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments and scenarios has been tested and the process refined and adapted with corresponding updates to documentation, policy, and training. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. Adapting to new projects or scenarios can occur without unexpected, measurable losses of quality. Process Capability is established from this level.</p>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro#level-400---managed-capable"><strong>Managed level</strong></a> characteristics include:</p>
+<h4 id="400-process">400 Process</h4>
+<ul>
+<li>There are formalized lists of requirements, including security requirements, operating constraints and defined and enforced Service/Operating Level Agreements (SLA/OLA) and a basic control framework where evidence of meeting requirements is evidenced manually, via documentation and reviewed and audited periodically.</li>
+<li>There is a formalized and appropriately sized (perhaps medium to large) team of developers and Site Reliability Engineers (SRE) supporting multiple and diverse applications following a DevSecOps model overseen by a Chief Technology Officer (CTO) or Chief Information Officer (CIO) and dedicated representation from an accountable security function overseen by a Chief Information Security Officer (CISO).</li>
+<li>✨ Developers / Senior Responsible Engineers (SRE) submit pull requests for small changes that are batched up to implement on a daily or weekly basis during an agreed and well communicated change window after being successfully tested and reviewed.</li>
+<li>✨ Infrastructure is managed with the same rigor as application code and managed through source control and Infrastructure as Code principles with several exceptions where it is very complex to automate and is quicker to do as a 1-off manual configuration.</li>
+<li>Automated subscription lifecycle (automation) is used as much as possible where appropriate.</li>
+<li>Synthetic user-journeys from quorum nodes outside platform feed into application telemetry.</li>
+<li>Applications are architected in a distributed fashion and use retries and caching layers to work around transient failures with short or minimal outages or impact to end-users, this process is tested at least annually via a planned outage.</li>
+</ul>
+<h4 id="400-technology">400 Technology</h4>
+<ul>
+<li>✨ Consistent deployment is achieved via pipeline tooling.</li>
+<li>✨ There is widespread use of scripted configuration checks for common faults and with scripted remediations (e.g. restart/redeploy Virtual Machines (VMs), container).</li>
+<li>Just in Time access for VMs has been implemented and tooling is used to configure and control VMs.</li>
+<li>Ephemeral environments are a core part of the strategy. The organization can spawn as many environments as required (VM, Platform as a Service (PaaS) or container) based on a Continuous Deployment pipeline; these have basic automated release tests with staff doing final QA and UAT activities.</li>
+</ul>
+<h4 id="400-storage">400 Storage</h4>
+<ul>
+<li>✨ Content storage is fully managed. Legacy content has been largely eliminated and tools, policies and processes are effective at preventing or remediating duplicate, superfluous and superseded content. Content labelling, retention and sensitivity scanning occurs across most content. Access control is effective; updates and changes, especially related to personnel role changes, are timely.</li>
+<li>The content strategy anticipates future needs, analyzing future needs, actively anticipating governance and compliance obligations and technology capabilities; horizon scanning, and scenario modelling are used to anticipate possible future needs and impacts.</li>
+<li>✨ Disaster recovery, business continuity and content protection are planned, implemented, tested, and enhanced as a continuous cycle.</li>
+</ul>
+<h4 id="400-governance-risk-compliance-and-security">400 Governance, Risk, Compliance and Security</h4>
+<ul>
+<li>Role Based Access Control is well implemented, with custom roles and sitting alongside a 'least-privilege' approach using tools such as Application Programming Interface Management (APIM) to automatically audit and enforce any admin elevations required.</li>
+<li>✨ Conditional access is fully adopted. A 'break-glass' access process is in place for extreme situations, to allow access to senior executives and key staff as a fall back.</li>
+<li>A dedicated security team ensures policies and processes are automated and regularly enforced across the organization. Tools are in place for security information and event management (SIEM).</li>
+<li>Zero-trust architecture exists between elements of applications and internal users through access control and centralized firewalls.</li>
+<li>✨ The Internet perimeter is secured and tightly controlled; it extends to selected 3rd parties over private interconnects or the Internet.</li>
+</ul>
+<h4 id="400-impacts">400 Impacts</h4>
+<p>At this level you can expect the following:</p>
+<p>Processes are defined, documented, group or role-based, and completely automated. Manual intervention is only needed for unexpected situations and exception handling. Regular auditing and testing result in enterprise level initiatives to invest in more effective strategies.</p>
+<p>Data is documented, architected, and managed at the enterprise level. All source data is governed and backed up automatically on a regular basis. Records management, sensitivity labels, and data governance are part of an enterprise strategy to ensure the right information is being managed, disposed of, and archived according to corporate and regulatory requirements.</p>
+<p>Process management is completely automated and is reliable. Users know what to expect and how to interact with each process. Repetitive tasks and ongoing processes are automated and error handling is part of that process.</p>
+<p>Security is a priority and regular testing leads to proactive tasks to ensure that vulnerabilities are minimal and managed.</p>
+<h3 id="level-500---optimizing">Level 500 - Optimizing</h3>
+<p>Management of the process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance, using techniques such as Statistical Process Control (SPC). Level 500 is likely to include automation, reduction in human input and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.</p>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro#level-500---optimizing-efficient"><strong>Optimizing level</strong></a> characteristics include:</p>
+<h4 id="500-process">500 Process</h4>
+<ul>
+<li>✨ Dedicated teams proactively prioritize infrastructure project needs in alignment with business initiatives driven by corporate leadership.</li>
+<li>✨ Team members are cross trained, certified, and follow a consistent methodology.</li>
+<li>Existing processes and lessons learned are regularly reviewed to create improvement tasks.</li>
+<li>✨ Changes are proactively planned and automated to minimize disruption and avoid outages.</li>
+<li>✨ In addition to defined non-production and production environments, sandboxes and demo environments are available for additional R&amp;D planning and testing.</li>
+<li>Architecture, hardware, and software needs all follow best practice including defined roles/groups and policy management.</li>
+<li>Processes are all well-defined and documented for public reading and review at any time.</li>
+<li>✨ DevOps/SREs submit pull requests frequently through the day to make changes to components in the environment which are automatically tested and deployed immediately if they pass.</li>
+</ul>
+<h4 id="500-technology">500 Technology</h4>
+<ul>
+<li>Hardware/software is inventoried, managed, and all versions are the latest &quot;accepted&quot; version.</li>
+<li>✨ Network design and management is defined, documented, and managed.</li>
+<li>VMs are treated as ephemeral resources and frequently re-deployed from a known-good state via Infrastructure as Code rather than upgraded, patched etc.</li>
+<li>✨ Auto-remediation of security vulnerabilities is in place.</li>
+<li>Applications are architected in a truly decoupled, microservice fashion and make extensive use of retries and caching layers to work around transient failures without impacting service.</li>
+<li>Changes are small, incremental, and simple to rollback.</li>
+</ul>
+<h4 id="500-storage">500 Storage</h4>
+<ul>
+<li>Storage is defined and strategic. Processes and policies manage what is stored where and minimized for maximum ROI.</li>
+<li>Storage is treated cross functionally as an enterprise level shared resource.</li>
+<li>✨ Storage management effort is minimized and instead data is governed and managed by the Senior Responsible Engineer (SRE) and DevOps with an enterprise Mobile Device Management (MDM) strategy and available API libraries.</li>
+</ul>
+<h4 id="500-governance-risk-compliance-and-security">500 Governance, Risk, Compliance and Security</h4>
+<ul>
+<li>Formalized list of requirements, including security requirements, operating constraints and an SLA/OLA expressed as code (Policy as Code) and an advanced control compliance framework where evidence of meeting requirements is automatically evidenced by deployment pipelines or programmatic checking and auditing of configurations. This is reviewed and audited continually via an automated process with the results published, for example to a compliance dashboard.</li>
+<li>All access is managed via Privileged Identity Management (PIM) with Muklti-factor Identification (MFA) via peer-approvals for privilege escalation.</li>
+<li>Dedicated DevOps/SRE roles supporting multiple, diverse and complex applications following a global-scale Development, Security and Operations (DevSecOps) practice overseen by CIO, CTO, CISO and IT risk management roles; servicing multiple customers (internal or external).</li>
+<li>Infrastructure is viewed exactly the same as application code and managed through source control and Infrastructure as Code principles exclusively.</li>
+<li>No manual changes are allowed, all driven through infrastructure as code.</li>
+<li>✨ Guard-rails block all non-best practice configurations.</li>
+<li>End-to-end deployment from development to production automated, with prescheduled automated test-cases for everything, is stronly implemented.</li>
+<li>A/B (blue/green) releases for new features is in place.</li>
+<li>✨ Automated failover or expansion of service instances between cloud regions is designed to route around failures, redeploying or scaling-out application instances where required in regions that see a significant uptick in traffic.</li>
+<li>True Zero-trust architecture exists between elements of applications and internal users through access control and de-centralized firewalls - by design, identity is the functional security perimeter and possibly spans multiple hyperscale cloud providers over the Internet.</li>
+</ul>
+<h4 id="500-impacts">500 Impacts</h4>
+<p>At this level you can expect the following:</p>
+<p>Mature processes are part of everyday culture, completely automated, and self-correcting, if possible. Changes are proactive based on strategic decisions and innovative so as to create a market differentiator when implemented. Leaders are trained, certified, and regularly sharing successes with peers and assisting with growth of best practices within their industry.</p>
+<p>Data is seen as a valuable resource and management of it is seen as a strategic investment. It has a dedicated lifecycle management that is carefully nurtured and cared for as much by the people who use it as those who are responsible for maintaining it.</p>
+<p>Processes are consistently reviewed and improved with qualitative and quantitative benefits being proudly recognized by leadership. A culture of education, innovation, and stewardship is observed and shared publicly through articles, white papers, and presentations.</p>
+<p>Security is well documented and understood and risk is easily identified and managed via well documented and defined controls within each part of the business all rolling up to the enterprise level.</p>
+<h2 id="common-microsoft-365-toolsets">Common Microsoft 365 Toolsets</h2>
+<ul>
+<li>Identity, Access Protection, and Management
+<ul>
+<li>Microsoft Entra ID</li>
+<li>Microsoft Entra ID Governance</li>
+<li>Microsoft Entra Verified ID</li>
+<li>Microsoft Entra Workload ID</li>
+<li>Azure Key Vault: Cryptographic Key and Secret Management</li>
+</ul>
+</li>
+<li>Security Information and Event Management (SIEM) &amp; Extended Detection and Response (XDR)
+<ul>
+<li>Microsoft Sentinel: Intelligent Security Analytics</li>
+<li>Microsoft Defender for Cloud</li>
+<li>Microsoft Defender for Endpoint</li>
+<li>Microsoft Defender for Office 365</li>
+<li>Microsoft Defender for Identity</li>
+<li>Microsoft Defender for Cloud Apps</li>
+<li>Microsoft Defender for Vulnerability Management</li>
+<li>Microsoft Defender Threat Intelligence</li>
+</ul>
+</li>
+<li>Cloud Security
+<ul>
+<li>Microsoft Defender for Cloud</li>
+<li>Microsoft Defender for Cloud Security Posture Management</li>
+<li>Microsoft Defender for DevOps</li>
+<li>Microsoft Defender External Attack Surface Management</li>
+<li>Azure Firewall</li>
+<li>Azure Web App Firewall</li>
+<li>Azure DDoS Protection</li>
+<li>GitHub Advanced Security</li>
+</ul>
+</li>
+<li>Endpoint Security
+<ul>
+<li>Microsoft 365 Defender for Endpoint</li>
+<li>Microsoft 365 Defender for IoT</li>
+<li>Microsoft 365 Defender Business</li>
+<li>Microsoft 365 Defender for Vulnerability Management</li>
+<li>Microsoft Intune: Device Management</li>
+</ul>
+</li>
+<li>Risk Management &amp; Privacy
+<ul>
+<li>Microsoft Purview Insider Risk Management</li>
+<li>Microsoft Purview Communication Compliance</li>
+<li>Microsoft Purview eDiscovery</li>
+<li>Microsoft Purview Compliance Manager</li>
+<li>Microsoft Purview Audit</li>
+<li>Microsoft Priva Risk Management</li>
+<li>Microsoft Priva Subject Rights Request</li>
+</ul>
+</li>
+<li>Information Protection
+<ul>
+<li>Microsoft Purview Information Protection</li>
+<li>Microsoft Purview Data Lifecycle Management</li>
+<li>Microsoft Purview Data Loss Prevention</li>
+<li>Azure API Manager: Hybrid, Multi-cloud API Management</li>
+<li>Azure Key Vault: Cryptographic Key and Secret Management</li>
+</ul>
+</li>
+<li>Organizational Compliance Enforcement
+<ul>
+<li>Azure Policy</li>
+</ul>
+</li>
+<li>RDP/SSH Connectivity for VM to Azure
+<ul>
+<li>Azure Bastion</li>
+</ul>
+</li>
+<li>System Monitoring
+<ul>
+<li>Azure Monitor: Network, Applications, and Infrastructure Monitoring</li>
+<li>Microsoft System Center: Deployment, Configuration Management, and Monitoring</li>
+</ul>
+</li>
+<li>Intelligent Security Analytics
+<ul>
+<li>Azure Sentinel</li>
+</ul>
+</li>
+<li>Cross Platform Task Automation Solution
+<ul>
+<li>PowerShell</li>
+</ul>
+</li>
+</ul>
+<h2 id="resources">Resources</h2>
+<p><a href="/microsoft-365/community/microsoft365-maturity-model--intro">Maturity Model for Microsoft 365 - Introduction</a></p>
+<p><a href="/azure/cloud-adoption-framework/secure/security-best-practices-introduction">Infrastructure and development security best practices</a></p>
+<p><a href="/azure/cloud-adoption-framework/overview">Microsoft Cloud Adoption Framework for Azure</a></p>
+<p><a href="/security/benchmark/azure/introduction">Microsoft cloud security benchmark</a></p>
+<hr>
+<p><strong>Principal authors</strong>:</p>
+<ul>
+<li><p><a href="https://www.linkedin.com/in/simonjhudson/">Simon Hudson, MVP</a></p>
+</li>
+<li><p><a href="https://www.linkedin.com/in/sharonweaver/">Sharon Weaver</a></p>
+</li>
+<li><p><a href="https://linkedin.com/in/m2kw6s">Mark Williams</a></p>
+</li>
+</ul>
+
+</article>
+          </div>
+
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/pnp/maturity-model/blob/main/docs/docs/microsoft365-maturity-model--infrastructure.md/#L1" class="contribution-link">Edit this page</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In this article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+      
+      <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="../styles/docfx.vendor.min.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
