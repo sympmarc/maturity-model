@@ -364,21 +364,21 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/cc-data-platform-banner.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
         ".html": {
           "relative_path": "docs/includes/cc-data-platform-banner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/cc-data-platform-banner.md"
         }
       },
       "version": ""
@@ -424,16 +424,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-core-team.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
@@ -444,11 +434,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/mm4m365-practitioners.md"
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-core-team.html"
         }
       },
       "version": ""
@@ -459,6 +449,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/includes/mm4m365-practitioners.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/mm4m365-practitioners.md"
         }
       },
       "version": ""
@@ -1135,13 +1135,13 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "toc.yml",
+      "source_relative_path": "docs/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "toc.html"
+          "relative_path": "docs/toc.html"
         },
         ".json": {
-          "relative_path": "toc.json"
+          "relative_path": "docs/toc.json"
         }
       },
       "version": ""
