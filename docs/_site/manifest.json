@@ -11,16 +11,6 @@
       }
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/cc-data-platform-banner.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
@@ -32,10 +22,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/includes/community-content-updates.md",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
         "resource": {
-          "relative_path": "docs/includes/community-content-updates.md"
+          "relative_path": "docs/includes/cc-data-platform-banner.md"
         }
       },
       "version": ""
@@ -46,6 +36,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/includes/community-content-updates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/community-content-updates.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/community-content-updates.md"
         }
       },
       "version": ""
@@ -91,6 +91,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "docs/includes/mm4m365-practitioners.md",
       "output": {
@@ -102,20 +112,30 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "source_relative_path": "docs/index.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/mm4m365-practitioners.html"
+          "relative_path": "docs/index.html"
         }
       },
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/index.md",
+      "type": "Resource",
+      "source_relative_path": "docs/media/favicon.ico",
       "output": {
-        ".html": {
-          "relative_path": "docs/index.html"
+        "resource": {
+          "relative_path": "docs/media/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/logo.svg"
         }
       },
       "version": ""
