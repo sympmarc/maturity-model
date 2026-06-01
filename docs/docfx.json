@@ -29,7 +29,10 @@
       "_appName": "Maturity Model for Microsoft 365",
       "_appTitle": "Maturity Model for Microsoft 365",
       "_enableSearch": true,
-      "pdf": false
+      "pdf": false,
+      "_appFaviconPath": "media/favicon.ico",
+      "_appLogoPath": "media/logo.svg",
+      "_enableNewTab": true
     }
   }
 }
