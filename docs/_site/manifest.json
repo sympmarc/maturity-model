@@ -1,0 +1,205 @@
+{
+  "source_base_path": "C:/code/PnP/maturity-model/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/cc-data-platform-banner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/community-content-updates.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/community-content-updates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/content-disclaimer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-core-team.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/maturity-model-for-microsoft-365/M365MM.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/maturity-model-for-microsoft-365/M365MM.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/ai-spectrum.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/ai-spectrum.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/ai-value.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/ai-value.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/autopilot-to-copilot.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/autopilot-to-copilot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/evolution.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/evolution.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/microsoft365-maturity-model--cognitive-business.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/microsoft365-maturity-model--cognitive-business.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/microsoft365-maturity-model--intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/microsoft365-maturity-model--intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/microsoft365-maturity-model-origin-story.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/microsoft365-maturity-model-origin-story.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/practitioners-calls-archive.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/practitioners-calls-archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

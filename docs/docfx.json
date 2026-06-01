@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dotnet/docfx/main/schemas/docfx.schema.json",
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "docs/media/**"
+        ]
+      }
+    ],
+    "output": "_site",
+    "template": [
+      "default",
+      "templates/material"
+    ],
+    "globalMetadata": {
+      "_appName": "Maturity Model for microsoft 365",
+      "_appTitle": "Maturity Model for microsoft 365",
+      "_enableSearch": true,
+      "pdf": false
+    }
+  }
+}
