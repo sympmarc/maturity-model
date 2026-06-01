@@ -404,16 +404,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/content-disclaimer.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
@@ -424,11 +414,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/mm4m365-core-team.md"
+        ".html": {
+          "relative_path": "docs/includes/content-disclaimer.html"
         }
       },
       "version": ""
@@ -444,11 +434,11 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "type": "Resource",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-practitioners.html"
+        "resource": {
+          "relative_path": "docs/includes/mm4m365-core-team.md"
         }
       },
       "version": ""
@@ -459,6 +449,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/includes/mm4m365-practitioners.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
         }
       },
       "version": ""
