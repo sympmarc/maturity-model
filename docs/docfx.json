@@ -23,7 +23,7 @@
     "output": "_site",
     "template": [
       "default",
-      "templates/material"
+      "docs/templates/material"
     ],
     "globalMetadata": {
       "_appName": "Maturity Model for Microsoft 365",
