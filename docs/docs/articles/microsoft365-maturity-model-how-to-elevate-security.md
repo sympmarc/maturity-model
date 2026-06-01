@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # Elevating Security
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
 ## Introduction
 
@@ -538,4 +538,4 @@ Regardless of where your organization is today, you can take action to improve s
 
 ---
 
-[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]

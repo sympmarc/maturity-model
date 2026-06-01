@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Elevating Staff and Training
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![Image of the Maturity Model for Microsoft 365 logo.](./media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](../media/maturity-model-for-microsoft-365/M365MM.png)
 
 The [Staff & Training Competency article](microsoft365-maturity-model--staff-and-training.md) provides an overview of Staff and Training concepts and details each of the five Staff and Training maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of Staff and Training plus expected benefits.
 
@@ -108,7 +108,7 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
 
 ## Related documents
 
@@ -123,4 +123,4 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ---
 
-[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]

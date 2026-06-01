@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # Practical Scenarios – Microsoft 365 Service Change Management
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
 The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
@@ -26,7 +26,7 @@ Note that we distinguish Service *Change* Management from Service *Health* Manag
 
 There are many ways to learn about upcoming changes.  There is the M365 Product Roadmap, there are blogs, there are announcements at conferences, press releases, press releases tied to conferences (Microsoft Ignite's Book of News for example),  there are podcasts and webinars, and more! The most direct communication, however, about what changes are coming to your specific tenant and approximately when is via [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter).  Message Center lives in the Microsoft Admin Center web app and the mobile Microsoft 365 Admin app. Both are accessible only to users [who have been granted access](/microsoft-365/admin/manage/message-center?view=o365-worldwide&preserve-view=true#frequently-asked-questions). 
 
-![The Health page in the Microsoft 365 Admin Center mobile app](./media/maturity-model-microsoft365-servicing-microsoft365-service-change-management/advisories-mobile.jpg)
+![The Health page in the Microsoft 365 Admin Center mobile app](../media/maturity-model-microsoft365-servicing-microsoft365-service-change-management/advisories-mobile.jpg)
 
 Microsoft makes planned service changes to the M365 services daily, resulting in over 1400 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the organization and its people and processes. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting Microsoft official blogs, usually on the [Microsoft Technical Community site](https://techcommunity.microsoft.com/).
 

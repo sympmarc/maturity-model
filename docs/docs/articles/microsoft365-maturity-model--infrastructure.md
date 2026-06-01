@@ -18,9 +18,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Infrastructure Competency
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](../media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -36,7 +36,7 @@ The Modern Infrastructure Competency focuses on tasks that are traditionally car
 
 Desktop devices are not covered by this competency, though it should be remembered that these interact with infrastructure and have not been handed off to the cloud provider and need to be managed in order to connect to the organization resources.
 
-![Modern Infrastructure](./media/microsoft365-maturity-model--infrastructure/ModernInfrastructure.png)
+![Modern Infrastructure](../media/microsoft365-maturity-model--infrastructure/ModernInfrastructure.png)
 
 ## Evolution of this competency
 
@@ -78,7 +78,7 @@ There may continue to be servers under staff desks, portable hard drives in draw
 - If virtual machines are used at all, these are ungoverned, with no management of resources, event logs, standards, etc.
 
 #### 100 Storage 
-![Where is it stored?](./media/microsoft365-maturity-model--infrastructure/Storage.png)
+![Where is it stored?](../media/microsoft365-maturity-model--infrastructure/Storage.png)
 
 - There is no knowledge of storage used across the organization (until they get a bill). This extends to types and location of storage. Storage frequently includes use of removable drives, DVDs, personal storage, and isolated PCs.
 - There is no control, management, or standards of storage devices.

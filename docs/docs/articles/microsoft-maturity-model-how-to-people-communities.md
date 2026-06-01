@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Elevating People and Communities
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![Image of the Maturity Model for Microsoft 365 logo.](./media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](../media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Introduction
 
@@ -143,7 +143,7 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
 
 ## Related documents
 
@@ -164,4 +164,4 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ---
 
-[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]

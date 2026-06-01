@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # The Microsoft 365 Maturity Model – Security Competency
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![logo for the Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
+![logo for the Maturity Model for Microsoft 365](../media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -38,7 +38,7 @@ Based on NIST Cybersecurity Framework (CSF), we can divide this into five phases
 - **Respond** (During breach)
 - **Recover** (Post-breach)
 
-![Diagram of the NIST cybersecurity framework.](./media/microsoft365-maturity-model--security/cybersecurity-reference-model.png)
+![Diagram of the NIST cybersecurity framework.](../media/microsoft365-maturity-model--security/cybersecurity-reference-model.png)
 
 Effective security programs require solutions that address questions across each phase:
 
@@ -466,4 +466,4 @@ Security maturity is an ongoing journey of continuous improvement. The threat la
 
 ---
 
-[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]

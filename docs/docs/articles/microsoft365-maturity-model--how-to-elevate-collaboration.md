@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Elevating Collaboration
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](../media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Introduction
 
@@ -173,7 +173,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
 
 ## Related documents
 
@@ -192,4 +192,4 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 ---
 
-[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]

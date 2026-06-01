@@ -15,7 +15,7 @@ ms.collection: M365Community
 
 # The Principles of Communication 
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
 
 Communication professionals often reference the 7 Principles of Communication. However, these principles are not standardized (and could be considered level 200!), which makes them open to interpretation. Despite this, certain common themes have been instrumental in shaping the Communication Competency within the Microsoft 365 Maturity Model. For those who are not communication professionals, this interpretation of the principles can provide valuable guidance when developing a communication strategy, conducting a maturity assessment, or selecting suitable technologies. Clear and effective communication is essential for fostering understanding, aligning goals, and ensuring the success of collaborative efforts across any organization.

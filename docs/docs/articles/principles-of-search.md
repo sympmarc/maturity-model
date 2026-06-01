@@ -17,7 +17,7 @@ ms.collection: SPCommunity
 
 # Introduction - The Principles of Search
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
 Great search should be at the heart of all corporate information systems and digital workspaces. The reason is simple, in this information age we all need far more information than any individual can hope to know about. While the human mind is a marvelous thing, it has its limitations and our memory capacity isn't so much limited as adapted for certain types of knowledge retention.; Meanwhile our organizations, industry, and society as a whole are creating new information at a rate far faster that it is possible to absorb. Not only can we not know and recall everything that is important to us, but we often don't know what we we don't know.
 
@@ -42,11 +42,11 @@ People search for many reasons:
 
 There are a wide variety of search strategies and technologies and these are evolving all the time in response to increasing diversity and volume of content in order to manage the complexity that come with these. Some strategies become ineffective or disadvantageous as complexity grows. There is a constant 'arms race' between content creation and search technology.
 
-![Volume and diversity of content](./media/principles-of-search/volume-and-diversity-of-content.png)
+![Volume and diversity of content](../media/principles-of-search/volume-and-diversity-of-content.png)
 
 The human-machine interface also evolves in response to the changing nature of business and content.
 
-![Search Experience](./media/principles-of-search/search-experience.png)
+![Search Experience](../media/principles-of-search/search-experience.png)
 
 ## History of Search
 
@@ -60,7 +60,7 @@ You can keep up to date with Microsoft search here: [https://resources.techcommu
 
 In our thinking about the maturity model for Microsoft 365 we identified common themes, which we have worked into guiding principles for making search magical. Making search magical involves adhering to all these principles.
 
-![Principles of Search](./media/principles-of-search/principles-of-search.png)
+![Principles of Search](../media/principles-of-search/principles-of-search.png)
 
 ## Ubiquitous
 
@@ -80,17 +80,17 @@ Great search should not actually be about search at all; It should be about deli
 
 **Search should deliver the results.**
 
-## ![Search Query](./media/principles-of-search/search-query.png)
+## ![Search Query](../media/principles-of-search/search-query.png)
 
 ## Appropriate
 
 Great search should understand what people mean. As far as possible, search should infer what it is that people need when they start searching (or even before). To achieve this requires an understanding of several things: the user's explicit query and also the implied query derived from the user context. This can include many things such as their location, their role, the current activities, time of day and many other profile elements. Search should offer understanding, not just indexing. By doing this, the information returned can be personalised and relevant.
 
-![Search sophistication vs input](./media/principles-of-search/search-sophistication-vs-input.png)
+![Search sophistication vs input](../media/principles-of-search/search-sophistication-vs-input.png)
 
  Furthermore, the way the information is presented should also be personalised and prioritised to the person's needs. The results of search should be consumable by the searcher, readily understood, and presented in a way they can quickly scan, interpret and move ahead with. Regardless of what the user is searching on, relevant results should be returned.
 
-![Search relevant results](./media/principles-of-search/search-relevent-results.png)
+![Search relevant results](../media/principles-of-search/search-relevent-results.png)
 
 Equally, great search should be current. For any given piece of information, search should have an understanding of how likely the information is to have changed, its periodicity or aging rate, and index that source of information at an appropriate frequency so that people are confident at what they are offered is up to date. As content changes it is important that returned results that are fresh and include the latest changes. Search needs to awareness of the searcher, the information and its sources.
 

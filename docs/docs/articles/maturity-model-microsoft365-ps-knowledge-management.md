@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 Practical Scenarios – Knowledge Management
 
-[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
+[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
 ## Overview
 
@@ -32,7 +32,7 @@ Knowledge is a strategic asset in any organization, essential for executing crit
 - **Build a Roadmap:** Prioritize blockers based on effort and expected ROI, outlining prerequisites and dependencies.
 - Measure Impact: Use both hard metrics and soft insights (employee satisfaction, engagement, wellbeing) to assess effectiveness.
 
-![Diagram of the Knowledge Process.](./media/maturity-model-microsoft365-ps-knowledge-management/knowledge-process.jpg)
+![Diagram of the Knowledge Process.](../media/maturity-model-microsoft365-ps-knowledge-management/knowledge-process.jpg)
 
 Effective KM relies on a collaborative culture where people feel safe to share and leverage each other's work. Start with a cultural assessment, considering:
 
@@ -57,7 +57,7 @@ Because KM is a complex area to address, spanning tacit and explicit knowledge, 
 
 Each of "the 3 Cs of KM", **C**ontent, **C**ollaboration and **C**ommunity, are described for each maturity level (L100 - L500), to enable organizations using this as an assessment and guide, to select the area of KM most relevant to them.
 
-![Diagram of the Knowledge Management Categories.](./media/maturity-model-microsoft365-ps-knowledge-management/knowledge-management-categories.png)
+![Diagram of the Knowledge Management Categories.](../media/maturity-model-microsoft365-ps-knowledge-management/knowledge-management-categories.png)
 
 You may address most, many, or just one of these, depending on your organization, its adoption and maturity in M365, and circumstances (i.e. business objectives and business problems sought to be addressed).
 
@@ -190,7 +190,7 @@ Metrics are emerging but not yet standardized or consistently applied across tea
 
 ###### Example content management model
 
-![Diagram of the Content Management Model.](./media/maturity-model-microsoft365-ps-knowledge-management/content-management-model.jpg)
+![Diagram of the Content Management Model.](../media/maturity-model-microsoft365-ps-knowledge-management/content-management-model.jpg)
 
 ##### Collaboration (L200 → L300)
 

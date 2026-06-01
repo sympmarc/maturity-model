@@ -20,7 +20,7 @@
         ]
       }
     ],
-    "output": "docs/_site",
+    "output": "_site",
     "template": [
       "default",
       "docs/templates/material"
