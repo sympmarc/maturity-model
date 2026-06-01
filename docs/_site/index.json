@@ -1,29 +1,4 @@
 {
-  "docs/_site/docs/includes/cc-data-platform-banner.html": {
-    "href": "docs/_site/docs/includes/cc-data-platform-banner.html",
-    "title": "| Maturity Model for Microsoft 365",
-    "summary": "Note Effective November 2020: Common Data Service has been renamed to Microsoft Dataverse. Learn more Some terminology in Microsoft Dataverse has been updated. For example, entity is now table and field is now column. Learn more This article has been updated to reflect the latest terminology."
-  },
-  "docs/_site/docs/includes/community-content-updates.html": {
-    "href": "docs/_site/docs/includes/community-content-updates.html",
-    "title": "| Maturity Model for Microsoft 365",
-    "summary": "Week of February 26, 2024 Published On Topic title Change 2/27/2024 Maturity Model for Microsoft 365 – People and Communities Competency modified Week of February 19, 2024 Published On Topic title Change 2/20/2024 What task management platform is best for me? modified Week of January 29, 2024 Published On Topic title Change 2/1/2024 Maturity Model for Microsoft 365 – Cognitive Business Competency modified"
-  },
-  "docs/_site/docs/includes/content-disclaimer.html": {
-    "href": "docs/_site/docs/includes/content-disclaimer.html",
-    "title": "| Maturity Model for Microsoft 365",
-    "summary": "Note This is an open-source article with the community providing support for it. For official Microsoft content, see Microsoft 365 documentation."
-  },
-  "docs/_site/docs/includes/mm4m365-core-team.html": {
-    "href": "docs/_site/docs/includes/mm4m365-core-team.html",
-    "title": "| Maturity Model for Microsoft 365",
-    "summary": "The MM4M365 core team has evolved over time and these are the people who have been a part of it. Core team Marc D Anderson, MVP Simon Hudson, MVP Simon Doy, MVP Sharon Weaver Pia Langenkrans Mats Warnolf Emeritus Sadalit (Sadie) Van Buren Emily Mancini, MVP, UXMC Galen Keene"
-  },
-  "docs/_site/docs/includes/mm4m365-practitioners.html": {
-    "href": "docs/_site/docs/includes/mm4m365-practitioners.html",
-    "title": "| Maturity Model for Microsoft 365",
-    "summary": "Tip Join the Maturity Model Practitioners: Each month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focuses on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions include a presentation on a topic about the Maturity Model, including recent updates. Calendar link"
-  },
   "docs/articles/index.html": {
     "href": "docs/articles/index.html",
     "title": "Docs Home | Maturity Model for Microsoft 365",
