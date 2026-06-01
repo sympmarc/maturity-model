@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # What are Maturity Model for Microsoft 365 Practical Scenarios?
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
 As the Maturity Model for Microsoft 365 has become more well-known, people have found uses for it in many different contexts. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents.
 

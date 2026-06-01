@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Origin Story for the Maturity Model for Microsoft 365
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## The Maturity Model for Microsoft 365 is an extension of the SharePoint Maturity Model (SPMM)
 
@@ -67,6 +67,6 @@ Not every organization needs to be at the top level. NASA or Airbus have differe
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

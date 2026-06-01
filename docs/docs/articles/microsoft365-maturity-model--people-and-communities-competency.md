@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 – People and Communities Competency
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -290,7 +290,7 @@ These improvements have a huge benefit to staff well-being and retention levels 
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ### Common Microsoft 365 Toolsets
 
@@ -325,4 +325,4 @@ These improvements have a huge benefit to staff well-being and retention levels 
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 – Practitioners Calls Archive
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Diagram of the Maturity Model for Microsoft 365 logo representing the framework for organizational maturity assessment.](media/maturity-model-for-microsoft-365/M365MM.png)
+![Diagram of the Maturity Model for Microsoft 365 logo representing the framework for organizational maturity assessment.](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ---
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ---
 
@@ -206,4 +206,4 @@ Leadership resistance tactics include: deflection ("not my table"), analysis par
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

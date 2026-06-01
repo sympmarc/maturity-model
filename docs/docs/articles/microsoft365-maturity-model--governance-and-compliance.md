@@ -14,7 +14,7 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -488,4 +488,4 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

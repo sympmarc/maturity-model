@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps  
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
 The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking and planning guidance.  However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 

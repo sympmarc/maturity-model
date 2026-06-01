@@ -14,13 +14,13 @@ ms.collection: M365Community
 
 # Practical Scenarios - Enhancing Brand Management
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
 ## Overview
 
 This practical scenario uses the concepts and characteristics from appropriate [Maturity Model for Microsoft 365](/microsoft-365/community/index-mm4m365) competencies to address the specific development of brand management in organizations. It focuses on ensuring brand development, consistency and use across an organization. It uses the same underpinning criteria as elsewhere in the Maturity Model and allows organizations to decide how mature their approach to branding should be for them and what actions, policies and technologies should be used to reach that level.
 
-![Maturity Levels](media/maturity-model-microsoft365-ps-enhancing-brand-management/maturity-levels.png)
+![Maturity Levels](./media/maturity-model-microsoft365-ps-enhancing-brand-management/maturity-levels.png)
 
 ## Understanding effective branding
 
@@ -171,4 +171,4 @@ Effective branding is far more than simply a logo and some colors. It should be 
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Employee Experience Competency
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Principles of Employee Experience  
 
@@ -34,7 +34,7 @@ While employee engagement focuses on the commitment and connection employees hav
 
 The Employee Experience is the journey an employee takes with your organization. It includes every interaction that happens during the employee life cycle, plus the experiences that involve an employee's role, workspace, manager and wellbeing. It is the way the people in an organization perceive the way they are treated, enabled, and supported by their organization and how they interact with the physical workspace, culture, technology, processes, and other touch points. It often pivots around a shared sense of purpose and about removing sources of stress and friction.
 
-![Employee Experience Lifecycle Diagram](media/microsoft365-maturity-model--employee-experience/EE%20employee%20lifecycle%20diagram.png)
+![Employee Experience Lifecycle Diagram](./media/microsoft365-maturity-model--employee-experience/EE%20employee%20lifecycle%20diagram.png)
 
 There are good reasons for organizations to focus on Employee Experience. Positive experiences are associated with better productivity, lower absenteeism, higher quality, and better internal and external relationships. It results in better staff retention, faster and better recruitment, more rapid onboarding of new employees and creates positive feedback into the organizational culture.  
 
@@ -70,7 +70,7 @@ It is useful to categorize Employee Experience into 4 sub-competencies:
 - Growth
 - Purpose
 
-![Employee Experience Sub-Competency Diagram](media/microsoft365-maturity-model--employee-experience/EE%20sub-competency%20diagram.png)
+![Employee Experience Sub-Competency Diagram](./media/microsoft365-maturity-model--employee-experience/EE%20sub-competency%20diagram.png)
 
 ## Evolution of this competency
 
@@ -358,7 +358,7 @@ These exceptional levels of employee engagement have a marked impact on the orga
 
 ## Cost and Benefit
 
-![Employee Experience Benefits](media/microsoft365-maturity-model--employee-experience/EE%20benefits%20diagram.png)
+![Employee Experience Benefits](./media/microsoft365-maturity-model--employee-experience/EE%20benefits%20diagram.png)
 
 Microsoft Work Trend Index also reports that:
 
@@ -403,7 +403,7 @@ Use of technologies can help, but these must always be blended with good managem
 
 - Answers in Viva
 
-![Employee Experience Viva](media/microsoft365-maturity-model--employee-experience/EE%20Viva%20diagram.png)
+![Employee Experience Viva](./media/microsoft365-maturity-model--employee-experience/EE%20Viva%20diagram.png)
 
 ## Resources
 
@@ -413,7 +413,7 @@ Use of technologies can help, but these must always be blended with good managem
 - [Employee Experience vs Employee Engagement](https://peopleinsight.co.uk/employee-experience-vs-engagement/) | People Insight
 - [Back To Basics: Employee Engagement Vs. Employee Experience](https://www.forbes.com/sites/ericmosley/2020/08/27/back-to-basics-employee-engagement-vs-employee-experience/) - Forbes   
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ---
 
@@ -424,4 +424,4 @@ Use of technologies can help, but these must always be blended with good managem
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

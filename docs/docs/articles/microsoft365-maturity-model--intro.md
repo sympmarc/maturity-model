@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Introduction
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Purpose
 
@@ -29,7 +29,7 @@ Taking a holistic view of the technology through the lens of the Maturity Model 
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
-[![Introduction to the Maturity Model for Microsoft 365](media/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
+[![Introduction to the Maturity Model for Microsoft 365](./media/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
 
 ## Maturity Model for Microsoft 365 summary
 
@@ -132,7 +132,7 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 [Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model--origin-story.md)
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ---
 
@@ -146,4 +146,4 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

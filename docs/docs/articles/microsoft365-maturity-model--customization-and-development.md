@@ -14,7 +14,7 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model - Customization and Development Competency
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Maturity Model for Microsoft 365](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -396,7 +396,7 @@ Customizable products and services
 
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ---
 
@@ -413,4 +413,4 @@ Customizable products and services
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]

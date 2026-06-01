@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Search Competency
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includescontent-disclaimer.md)]
 
-![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](./media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -370,7 +370,7 @@ Organizations should capture success stories to provide examples of the benefits
  
 ## Resources
 
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](./includesmm4m365-practitioners.md)]
 
 ---
 
@@ -387,4 +387,4 @@ Organizations should capture success stories to provide examples of the benefits
 
 ---
 
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](./includesmm4m365-core-team.md)]
