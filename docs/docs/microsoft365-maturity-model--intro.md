@@ -130,7 +130,7 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 ## Resources
 
-[Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model-origin-story.md)
+[Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model--origin-story.md)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
