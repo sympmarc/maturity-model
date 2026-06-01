@@ -31,21 +31,21 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/community-content-updates.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/community-content-updates.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
         ".html": {
           "relative_path": "docs/includes/community-content-updates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/community-content-updates.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/community-content-updates.md"
         }
       },
       "version": ""
