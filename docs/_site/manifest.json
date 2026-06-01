@@ -384,21 +384,21 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/community-content-updates.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/community-content-updates.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
         ".html": {
           "relative_path": "docs/includes/community-content-updates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/community-content-updates.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/community-content-updates.md"
         }
       },
       "version": ""
@@ -424,21 +424,21 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-core-team.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
         "resource": {
           "relative_path": "docs/includes/mm4m365-core-team.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-core-team.html"
         }
       },
       "version": ""
@@ -1069,6 +1069,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/evolution.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/media/pnp-mm4m365-blue.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/media/pnp-mm4m365-blue.svg"
         }
       },
       "version": ""
