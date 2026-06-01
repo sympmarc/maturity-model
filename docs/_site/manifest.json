@@ -12,10 +12,353 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
+      "source_relative_path": "docs/articles/index.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/cc-data-platform-banner.html"
+          "relative_path": "docs/articles/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-practical-scenarios-copilot-implementation.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-practical-scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-practical-scenarios.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-ps-enhancing-brand-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-ps-enhancing-brand-management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-ps-knowledge-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-ps-knowledge-management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-apps.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-apps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-service-change-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-service-change-management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-service-health-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-servicing-microsoft365-service-health-management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/maturity-model-microsoft365-teams-development.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/maturity-model-microsoft365-teams-development.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft-maturity-model-how-to-people-communities.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft-maturity-model-how-to-people-communities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft-maturity-model-how-to-staff-and-training.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft-maturity-model-how-to-staff-and-training.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--business-process.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--business-process.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--cognitive-business copy.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--cognitive-business copy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--cognitive-business.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--cognitive-business.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--collaboration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--collaboration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--communication.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--communication.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--customization-and-development.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--customization-and-development.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--employee-experience.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--employee-experience.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--governance-and-compliance.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--governance-and-compliance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--how-to-elevate-collaboration.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--how-to-elevate-collaboration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--how-to-elevate-communication.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--how-to-elevate-communication.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--infrastructure.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--infrastructure.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--management-of-content.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--management-of-content.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--origin-story.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--origin-story.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--people-and-communities-competency.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--people-and-communities-competency.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--run-workshop.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--run-workshop.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--search.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--search.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model--staff-and-training.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model--staff-and-training.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model-how-to-elevate-security.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model-how-to-elevate-security.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/microsoft365-maturity-model-security.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/microsoft365-maturity-model-security.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/practitioners-calls-archive.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/practitioners-calls-archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/principles-of-communication.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/principles-of-communication.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/principles-of-search.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/principles-of-search.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/articles/toc.json"
         }
       },
       "version": ""
@@ -26,6 +369,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/includes/cc-data-platform-banner.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/cc-data-platform-banner.html"
         }
       },
       "version": ""
@@ -51,16 +404,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/content-disclaimer.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
@@ -72,10 +415,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/mm4m365-core-team.html"
+          "relative_path": "docs/includes/content-disclaimer.html"
         }
       },
       "version": ""
@@ -92,10 +435,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/mm4m365-practitioners.html"
+          "relative_path": "docs/includes/mm4m365-core-team.html"
         }
       },
       "version": ""
@@ -112,90 +455,20 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/index.md",
       "output": {
         ".html": {
           "relative_path": "docs/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-practical-scenarios-copilot-implementation.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-practical-scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-practical-scenarios.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-ps-enhancing-brand-management.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-ps-enhancing-brand-management.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-ps-knowledge-management.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-ps-knowledge-management.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-apps.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-apps.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-service-change-management.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-service-change-management.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-service-health-management.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-servicing-microsoft365-service-health-management.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/maturity-model-microsoft365-teams-development.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/maturity-model-microsoft365-teams-development.html"
         }
       },
       "version": ""
@@ -856,256 +1129,6 @@
       "output": {
         "resource": {
           "relative_path": "docs/media/principles-of-search/volume-and-diversity-of-content.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft-maturity-model-how-to-people-communities.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft-maturity-model-how-to-people-communities.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft-maturity-model-how-to-staff-and-training.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft-maturity-model-how-to-staff-and-training.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--business-process.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--business-process.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--cognitive-business copy.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--cognitive-business copy.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--cognitive-business.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--cognitive-business.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--collaboration.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--collaboration.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--communication.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--communication.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--customization-and-development.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--customization-and-development.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--employee-experience.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--employee-experience.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--governance-and-compliance.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--governance-and-compliance.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--how-to-elevate-collaboration.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--how-to-elevate-collaboration.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--how-to-elevate-communication.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--how-to-elevate-communication.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--infrastructure.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--infrastructure.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--intro.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--intro.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--management-of-content.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--management-of-content.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--origin-story.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--origin-story.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--people-and-communities-competency.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--people-and-communities-competency.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--run-workshop.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--run-workshop.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--search.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--search.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model--staff-and-training.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model--staff-and-training.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model-how-to-elevate-security.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model-how-to-elevate-security.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model-security.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/microsoft365-maturity-model-security.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/practitioners-calls-archive.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/practitioners-calls-archive.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/principles-of-communication.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/principles-of-communication.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "docs/principles-of-search.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/principles-of-search.html"
         }
       },
       "version": ""
