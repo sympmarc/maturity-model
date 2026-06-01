@@ -10,6 +10,8 @@
     - name: Practitioners Calls Archive
       href: practitioners-calls-archive.md
 
+- name: Competencies
+
 
 - name: Tools & Samples
   items:
@@ -35,10 +37,6 @@
     - name: Maturity Model for Microsoft 365 Practical Scenarios - Copilot Implementation
       href: maturity-model-microsoft365-practical-scenarios-copilot-implementation.md
 
-
-
-
-- name: Competencies
   items:
     - name: Business Process Competency
       href: microsoft365-maturity-model--business-process.md
