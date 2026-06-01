@@ -1,4 +1,7 @@
-- name: Maturity Model for Microsoft 365
+- name: Home
+  href: index.md
+
+- name: Overview
   items:
     - name: Introduction
       href: microsoft365-maturity-model--intro.md
@@ -6,6 +9,7 @@
       href: microsoft365-maturity-model--origin-story.md
     - name: Practitioners Calls Archive
       href: practitioners-calls-archive.md
+
 - name: Competencies
   items:
     - name: Business Process Competency
@@ -48,7 +52,7 @@
           href: microsoft365-maturity-model-security.md
         - name: Elevating Security
           href: microsoft365-maturity-model-how-to-elevate-security.md
-    - name: Staff & Training
+    - name: "Staff & Training"
       items:
         - name: Staff & Training Competency
           href: microsoft365-maturity-model--staff-and-training.md

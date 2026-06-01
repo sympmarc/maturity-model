@@ -31,16 +31,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/community-content-updates.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/community-content-updates.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
@@ -51,11 +41,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/content-disclaimer.md"
+        ".html": {
+          "relative_path": "docs/includes/community-content-updates.html"
         }
       },
       "version": ""
@@ -71,11 +61,11 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "type": "Resource",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-core-team.html"
+        "resource": {
+          "relative_path": "docs/includes/content-disclaimer.md"
         }
       },
       "version": ""
@@ -91,11 +81,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/mm4m365-practitioners.md"
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-core-team.html"
         }
       },
       "version": ""
@@ -106,6 +96,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/includes/mm4m365-practitioners.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/mm4m365-practitioners.md"
         }
       },
       "version": ""
@@ -446,6 +446,26 @@
       "output": {
         "resource": {
           "relative_path": "docs/media/microsoft365-maturity-model-cognitive-business/evolution.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/microsoft-maturity-model-how-to-people-communities.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/microsoft-maturity-model-how-to-people-communities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/microsoft-maturity-model-how-to-staff-and-training.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/microsoft-maturity-model-how-to-staff-and-training.html"
         }
       },
       "version": ""
