@@ -364,16 +364,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/cc-data-platform-banner.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
@@ -384,11 +374,11 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/community-content-updates.md",
+      "type": "Resource",
+      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
-        ".html": {
-          "relative_path": "docs/includes/community-content-updates.html"
+        "resource": {
+          "relative_path": "docs/includes/cc-data-platform-banner.md"
         }
       },
       "version": ""
@@ -399,6 +389,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/includes/community-content-updates.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/community-content-updates.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/community-content-updates.html"
         }
       },
       "version": ""
@@ -424,16 +424,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/mm4m365-core-team.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
@@ -445,10 +435,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
         ".html": {
-          "relative_path": "docs/includes/mm4m365-practitioners.html"
+          "relative_path": "docs/includes/mm4m365-core-team.html"
         }
       },
       "version": ""
@@ -459,6 +449,16 @@
       "output": {
         "resource": {
           "relative_path": "docs/includes/mm4m365-practitioners.md"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/includes/mm4m365-practitioners.html"
         }
       },
       "version": ""
