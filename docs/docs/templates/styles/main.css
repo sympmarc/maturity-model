@@ -8,6 +8,14 @@
   }  
 }
 
+
+.navbar-brand svg {
+  height: 40px;
+  width: auto;
+}
+
+
+
 #search {
   border: none;
 }
