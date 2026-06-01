@@ -31,16 +31,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/includes/community-content-updates.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/includes/community-content-updates.html"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
@@ -51,11 +41,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
+      "type": "Conceptual",
+      "source_relative_path": "docs/includes/community-content-updates.md",
       "output": {
-        "resource": {
-          "relative_path": "docs/includes/content-disclaimer.md"
+        ".html": {
+          "relative_path": "docs/includes/community-content-updates.html"
         }
       },
       "version": ""
@@ -72,10 +62,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
         "resource": {
-          "relative_path": "docs/includes/mm4m365-core-team.md"
+          "relative_path": "docs/includes/content-disclaimer.md"
         }
       },
       "version": ""
@@ -86,6 +76,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/includes/mm4m365-core-team.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/includes/mm4m365-core-team.md",
+      "output": {
+        "resource": {
+          "relative_path": "docs/includes/mm4m365-core-team.md"
         }
       },
       "version": ""
@@ -222,10 +222,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/microsoft365-maturity-model-origin-story.md",
+      "source_relative_path": "docs/microsoft365-maturity-model--origin-story.md",
       "output": {
         ".html": {
-          "relative_path": "docs/microsoft365-maturity-model-origin-story.html"
+          "relative_path": "docs/microsoft365-maturity-model--origin-story.html"
         }
       },
       "version": ""
