@@ -57,7 +57,7 @@ This Search competency relies heavily on several other competencies including Co
 
 ### Level 100 - Initial
 
-**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 Governance, Risk, Compliance & Security
 
@@ -108,7 +108,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 ### Level 200 - Managed
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](../index.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -157,7 +157,7 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 ### Level 300 - Defined
 
-**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
+**[Defined level](../index.md#level-300---defined)** characteristics include:
 
 #### 300 Governance, Risk, Compliance & Security
 
@@ -199,7 +199,7 @@ AI search begins to measurably improve findability and productivity, though bene
 
 ### Level 400 - Predictable
 
-**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](../index.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
@@ -258,7 +258,7 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 ### Level 500 - Optimizing
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
+**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 

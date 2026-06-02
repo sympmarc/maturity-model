@@ -24,7 +24,7 @@ The Governance, Risk, and Compliance Competency is focused on helping an organiz
 
 ### Governance, Risk and Compliance framework
 
-:::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-framework.png" alt-text="Governance, Risk and Compliance framework":::
+:::image type="content" source="images/microsoft365-maturity-model--governance-and-compliance/grc-framework.png" alt-text="Governance, Risk and Compliance framework":::
 
 ## Definition of this competency
 
@@ -62,9 +62,9 @@ To address the gap between compliance and security many organizations also follo
 
 ## Evolution of this competency
 
-:::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-competency-overview.png" alt-text="Governance, Risk, and Compliance Competency Levels":::
+:::image type="content" source="images/microsoft365-maturity-model--governance-and-compliance/grc-competency-overview.png" alt-text="Governance, Risk, and Compliance Competency Levels":::
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 
 > [!NOTE]
 > Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
@@ -79,7 +79,7 @@ Organizations at level 100 maturity pay little attention to compliance and are c
 
 The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring of GRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
 
-**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
+**[Initial level](./index.md#level-100---initial)** characteristics include:
 
 #### People and Culture (100)
 
@@ -132,7 +132,7 @@ At level 200 maturity an organization tends to believe governance and compliance
 
 At this maturity level organizations acknowledge compliance regulations and standards. However, organizations may take a ‘tick box’ approach to Governance, Risk and Compliance (GRC). Policies have been written, intended to avoid the damages that level 100 organizations can face, but the polices are not enforced in the organization.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](../index.md#level-200---managed)** characteristics include:
 
 #### People and Culture (200)
 
@@ -191,7 +191,7 @@ A baseline compliance framework is implemented with a standardized set of polici
 
 Processes measured and controlled
 
-**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
+**[Defined level](../index.md#level-300---defined)** characteristics include:
 
 #### People and Culture (300)
 
@@ -263,7 +263,7 @@ The Compliance framework is now tailored to include an up-to-date and accurate c
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive.
 
-**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](../index.md#level-400---predictable)** characteristics include:
 
 #### People and Culture (400)
 
@@ -341,7 +341,7 @@ Compliance is embedded in the organization and business activities are ‘compli
 
 Organizations at this level use technology strategically to gain operational efficiencies, greater visibility into their operations, reduce risks, and drive down compliance costs. Tools are integrated in order to monitor controls and gain insights into their governance, risk and compliance program.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
+**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
 
 #### People and Culture (500)
 
@@ -409,7 +409,7 @@ At this level, the governance, risk and compliance controls are aligned to the o
 
 Many characteristics can be delivered using the M365 platform to develop Governance and Compliance solutions and processes, especially using SharePoint, Microsoft Teams, Power Automate etc. available with any Business or Enterprise license. The native compliance capabilities of M365, such as those in the Compliance Center, do depend on the Microsoft 365 licensing level. While there is not a direct mapping, a useful guide is provided below. Some functionality requires additional licenses.
 
-:::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-technical-controls.png" alt-text="Governance, Risk, and Compliance technical controls":::
+:::image type="content" source="images/microsoft365-maturity-model--governance-and-compliance/grc-technical-controls.png" alt-text="Governance, Risk, and Compliance technical controls":::
 
 Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?linkid=2139145) to see which security and compliance features are available with each option.
 
