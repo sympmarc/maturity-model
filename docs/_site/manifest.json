@@ -1095,13 +1095,13 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "docs/toc.yml",
+      "source_relative_path": "toc.yml",
       "output": {
         ".html": {
-          "relative_path": "docs/toc.html"
+          "relative_path": "toc.html"
         },
         ".json": {
-          "relative_path": "docs/toc.json"
+          "relative_path": "toc.json"
         }
       },
       "version": ""
