@@ -34,7 +34,7 @@ While employee engagement focuses on the commitment and connection employees hav
 
 The Employee Experience is the journey an employee takes with your organization. It includes every interaction that happens during the employee life cycle, plus the experiences that involve an employee's role, workspace, manager and wellbeing. It is the way the people in an organization perceive the way they are treated, enabled, and supported by their organization and how they interact with the physical workspace, culture, technology, processes, and other touch points. It often pivots around a shared sense of purpose and about removing sources of stress and friction.
 
-![Employee Experience Lifecycle Diagram](../images/microsoft365-maturity-model--employee-experience/EE%20employee%20lifecycle%20diagram.png)
+![Employee Experience Lifecycle Diagram](./images/microsoft365-maturity-model--employee-experience/EE%20employee%20lifecycle%20diagram.png)
 
 There are good reasons for organizations to focus on Employee Experience. Positive experiences are associated with better productivity, lower absenteeism, higher quality, and better internal and external relationships. It results in better staff retention, faster and better recruitment, more rapid onboarding of new employees and creates positive feedback into the organizational culture.  
 
@@ -70,7 +70,7 @@ It is useful to categorize Employee Experience into 4 sub-competencies:
 - Growth
 - Purpose
 
-![Employee Experience Sub-Competency Diagram](../images/microsoft365-maturity-model--employee-experience/EE%20sub-competency%20diagram.png)
+![Employee Experience Sub-Competency Diagram](./images/microsoft365-maturity-model--employee-experience/EE%20sub-competency%20diagram.png)
 
 ## Evolution of this competency
 
@@ -358,7 +358,7 @@ These exceptional levels of employee engagement have a marked impact on the orga
 
 ## Cost and Benefit
 
-![Employee Experience Benefits](../images/microsoft365-maturity-model--employee-experience/EE%20benefits%20diagram.png)
+![Employee Experience Benefits](./images/microsoft365-maturity-model--employee-experience/EE%20benefits%20diagram.png)
 
 Microsoft Work Trend Index also reports that:
 
@@ -403,7 +403,7 @@ Use of technologies can help, but these must always be blended with good managem
 
 - Answers in Viva
 
-![Employee Experience Viva](../images/microsoft365-maturity-model--employee-experience/EE%20Viva%20diagram.png)
+![Employee Experience Viva](./images/microsoft365-maturity-model--employee-experience/EE%20Viva%20diagram.png)
 
 ## Resources
 

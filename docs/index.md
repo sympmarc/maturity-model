@@ -29,7 +29,7 @@ Taking a holistic view of the technology through the lens of the Maturity Model 
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
-[![Introduction to the Maturity Model for Microsoft 365](../images/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
+[![Introduction to the Maturity Model for Microsoft 365](overview/images/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
 
 ## Maturity Model for Microsoft 365 summary
 
@@ -47,18 +47,18 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 
 ### Published
 
-- [AI & Cognitive Business](../competencies/microsoft365-maturity-model--cognitive-business.md)
-- [Business Process](../competencies/microsoft365-maturity-model--business-process.md)
-- [Collaboration](../competencies/microsoft365-maturity-model--collaboration.md)
-- [Communication](../competencies/microsoft365-maturity-model--communication.md)
-- [Customization & Development](../competencies/microsoft365-maturity-model--customization-and-development.md)
-- [Employee Experience](../competencies/microsoft365-maturity-model--employee-experience.md)
-- [Governance, Risk, and Compliance](../competencies/microsoft365-maturity-model--governance-and-compliance.md)
-- [Infrastructure](../competencies/microsoft365-maturity-model--infrastructure.md)
-- [Management of Content](../competencies/microsoft365-maturity-model--management-of-content.md)
-- [People & Communities](../competencies/microsoft365-maturity-model--people-and-communities-competency.md)
-- [Search](../competencies/microsoft365-maturity-model--search.md)
-- [Staff & Training](../competencies/microsoft365-maturity-model--staff-and-training.md)
+- [AI & Cognitive Business](competencies/microsoft365-maturity-model--cognitive-business.md)
+- [Business Process](competencies/microsoft365-maturity-model--business-process.md)
+- [Collaboration](competencies/microsoft365-maturity-model--collaboration.md)
+- [Communication](competencies/microsoft365-maturity-model--communication.md)
+- [Customization & Development](competencies/microsoft365-maturity-model--customization-and-development.md)
+- [Employee Experience](competencies/microsoft365-maturity-model--employee-experience.md)
+- [Governance, Risk, and Compliance](competencies/microsoft365-maturity-model--governance-and-compliance.md)
+- [Infrastructure](competencies/microsoft365-maturity-model--infrastructure.md)
+- [Management of Content](competencies/microsoft365-maturity-model--management-of-content.md)
+- [People & Communities](competencies/microsoft365-maturity-model--people-and-communities-competency.md)
+- [Search](competencies/microsoft365-maturity-model--search.md)
+- [Staff & Training](competencies/microsoft365-maturity-model--staff-and-training.md)
 
 ### In progress
 
@@ -130,7 +130,7 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 ## Resources
 
-[Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model--origin-story.md)
+[Origin of the Maturity Model for Microsoft 365](overview/microsoft365-maturity-model--origin-story.md)
 
 [!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
 
