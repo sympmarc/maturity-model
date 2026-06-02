@@ -66,14 +66,14 @@ As Satya Nadella has said, AI is moving from Autopilot to Copilot:
 
 ![Diagram that shows the pathway of AI from manual activity through Autopilot to Copilot.](./images/microsoft365-maturity-model-cognitive-business/autopilot-to-copilot.png)
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 Some characteristics should, perhaps, be addressed a little more urgently than others; we have marked these with the 'Sparkles' emoji: ✨ 
 
 ### Level 100 - Initial
 
 Organizations at this level are unaware of, uninterested in or dismissive of AI supported cognitive business. They rely on their staff to maintain their competitiveness and do not perceive an opportunity or threat to the way they currently operate. Knowledge worker tasks are delivered by staff.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 General
 

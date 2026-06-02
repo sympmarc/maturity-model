@@ -112,7 +112,7 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ## Related documents
 
-- [Maturity Model for Microsoft 365 – Introduction](microsoft365-maturity-model--intro.md)
+- [Maturity Model for Microsoft 365 – Introduction](../index.md)
 - [Maturity Model for Microsoft 365 – Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 - [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 - [Empowering Your SharePoint Champions](empowering-your-sharepoint-champions.md)

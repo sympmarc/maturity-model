@@ -31,13 +31,13 @@ The solution for which channels to use can vary depending on the size of your or
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 
 ### Level 100 - Initial
 
 You might recognize this one. Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories or Excel spreadsheets (which, to be fair, can be surprisingly useful during IT incidents). There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 User Experience
 

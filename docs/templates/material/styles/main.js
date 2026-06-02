@@ -72,11 +72,14 @@ $(function () {
     //    $(this).html(text);
     //});
 
-    // Add text to empty links
+    // Add text to empty links, but keep image-only links intact.
     $("p > a").each(function () {
-        var link = $(this).attr('href')
-        if ($(this).text() === "") {
-            $(this).html(link)
+        var link = $(this).attr('href');
+        var text = $(this).text().trim();
+        var hasImage = $(this).find("img").length > 0;
+
+        if (text === "" && !hasImage) {
+            $(this).html(link);
         }
     });
 })

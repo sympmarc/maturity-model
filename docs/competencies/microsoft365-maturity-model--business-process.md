@@ -28,13 +28,13 @@ The Business Process competency focuses on how users in an organization perform 
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 
 ### Level 100 - Initial
 
 Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g., certified Continuous Process Improvement expert) leading the charge to use technology to make improvements.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 General
 
@@ -267,8 +267,8 @@ Improving your Business Process maturity requires an investment in business proc
 ## Related documents
 
 - [Business process flows overview](/power-automate/business-process-flows-overview)
-- [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
-- [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-dlp-policies-you-should-be-considering-on-day-1.md)
+- Defining a Power Platform Environment Strategy
+- The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
 
 ---
 

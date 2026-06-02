@@ -79,7 +79,7 @@ Organizations at level 100 maturity pay little attention to compliance and are c
 
 The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring of GRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### People and Culture (100)
 
