@@ -29,7 +29,7 @@ Taking a holistic view of the technology through the lens of the Maturity Model 
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
-[![Introduction to the Maturity Model for Microsoft 365](overview/images/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
+[![Introduction to the Maturity Model for Microsoft 365](./overview/images/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
 
 ## Maturity Model for Microsoft 365 summary
 
