@@ -121,7 +121,7 @@ There is a lot of frustration at this level because people spend a lot of time f
 - Lists do not contain granular items. They are mostly embedded in a master document.
 - Options for sorting, filtering and grouping items are limited or absent.
 
-![Lifecycle Management  - Level 100](../images/microsoft365-maturity-model--management-of-content/lifecycle-management-level-100.jpg)
+![Lifecycle Management  - Level 100](./images/microsoft365-maturity-model--management-of-content/lifecycle-management-level-100.jpg)
 
 ##### 100 Identification
 
@@ -174,7 +174,7 @@ At this level you can expect the following:
 - Lifecycle management of list items is largely absent.
 - Content creation tools and file formats have been standardized across the organization, but this is not enforced, and some staff continue to use non-compliant formats. There is no systematic standardization of legacy content. There may be overzealous application of the standards in some areas, overlooking the specific business need in the local pursuit of standardization.
 - ✨ Templates exist, but are not well managed and not published in a way that promotes their active use across the organization; templates are not integrated into the 'New Document settings
-![Personal Templates](../images/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
+![Personal Templates](./images/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
 - Some teams and staff understand the power of multi-author editing by storing their content in an online content management platform. While they use and promote this approach, many staff still expect to receive attachments rather than live links, resulting in serial editing in many cases. Content management approaches are rarely mandated outside critical documents.
 - Version control is in use in these cases though much remains unmanaged or handled through manual update of document registers. Staff members are often unaware of how to use version history and version control.
 - ✨ Files within the content management platforms have some level of role-based access, governance and protection, though this is not mandated, well documented, centrally managed or built to best practice.

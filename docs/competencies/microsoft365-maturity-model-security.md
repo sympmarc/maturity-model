@@ -38,7 +38,7 @@ Based on NIST Cybersecurity Framework (CSF), we can divide this into five phases
 - **Respond** (During breach)
 - **Recover** (Post-breach)
 
-![Diagram of the NIST cybersecurity framework.](../images/microsoft365-maturity-model--security/cybersecurity-reference-model.png)
+![Diagram of the NIST cybersecurity framework.](./images/microsoft365-maturity-model--security/cybersecurity-reference-model.png)
 
 Effective security programs require solutions that address questions across each phase:
 
@@ -80,7 +80,7 @@ Mature security practices address three interconnected areas:
 
 ## Evolution of the Security Competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the maturity levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the maturity levels.
 
 ---
 
@@ -438,7 +438,7 @@ Mature security practices create positive business value through contract wins, 
 
 ### Related Documents
 
-- [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
+- [Maturity Model for Microsoft 365 - Introduction](../index.md)
 - [Elevating Security](microsoft365-maturity-model-how-to-elevate-security.md)
 - [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 - [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)

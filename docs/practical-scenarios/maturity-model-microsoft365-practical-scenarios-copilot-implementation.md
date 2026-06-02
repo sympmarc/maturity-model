@@ -26,7 +26,7 @@ Microsoft 365 Copilot integrates AI capabilities across the Microsoft 365 suite,
 
 ### What We Want: The Benefits Everyone Is Talking About
 
-![Slide showing the expected benefits of Microsoft 365 Copilot adoption that organizations commonly discuss.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/copilot-benefits.png)
+![Slide showing the expected benefits of Microsoft 365 Copilot adoption that organizations commonly discuss.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/copilot-benefits.png)
 
 Successful Copilot implementation requires coordination across multiple MM4M365 competencies, particularly People and Communities, Staff & Training, AI & Cognitive Business, and Management of Content.
 
@@ -52,11 +52,11 @@ At this level, organizations have begun piloting Copilot with selected groups, b
 > [!NOTE]
 > Before we go further: Thank you, and it's going to be okay. We acknowledge that many organizations have been through rapid changes (remote work, AI adoption) and have been heroes for too long. This work is about moving forward together, not pointing fingers.
 
-![Slide acknowledging that organizations have been through rapid changes and thanking those who have worked hard during AI adoption.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/thank-you-acknowledgment.png)
+![Slide acknowledging that organizations have been through rapid changes and thanking those who have worked hard during AI adoption.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/thank-you-acknowledgment.png)
 
 ### 200 Characteristics
 
-![Slide showing the typical characteristics of organizations at maturity Level 200 for Copilot implementation.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-characteristics.png)
+![Slide showing the typical characteristics of organizations at maturity Level 200 for Copilot implementation.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-characteristics.png)
 
 - Pilot programs exist with selected user groups (often IT, executive assistants, or specific departments)
 - Champions program exists, but champions are volunteers without formal structure or accountability
@@ -82,7 +82,7 @@ At this level, organizations have begun piloting Copilot with selected groups, b
 
 **The Plateau:**
 
-![Slide illustrating the Level 200 trap where initial success creates a dangerous plateau.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-trap.png)
+![Slide illustrating the Level 200 trap where initial success creates a dangerous plateau.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-trap.png)
 
 - Adoption gets stuck at 20-30% and doesn't scale
 - Champions can't scale because they're still just volunteers without proper support
@@ -95,7 +95,7 @@ At this level, organizations have begun piloting Copilot with selected groups, b
 
 **The Real Problem:**
 
-![Slide explaining why Level 200 feels like success but builds technical and organizational debt.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-progression.png)
+![Slide explaining why Level 200 feels like success but builds technical and organizational debt.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-progression.png)
 
 - This level feels like success, but it's actually building technical and organizational debt
 - Organizations think they have information management programs, but they don't have data classification and incident prevention
@@ -110,9 +110,9 @@ At this level, organizations have begun piloting Copilot with selected groups, b
 - When users lose trust, they go back to old ways of working
 - Bad information architecture compounds at artificial intelligence speed
 
-![Slide showing the consequences of staying at Level 200, including data quality issues and security risks.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-consequences.png)
+![Slide showing the consequences of staying at Level 200, including data quality issues and security risks.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-consequences.png)
 
-![Slide illustrating why Level 200 fails due to missing foundational competencies.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-missing-foundation.png)
+![Slide illustrating why Level 200 fails due to missing foundational competencies.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/level-200-missing-foundation.png)
 
 #### The Top Blockers to AI Rollout (According to Research)
 
@@ -122,7 +122,7 @@ According to the AvePoint 2025 AI Report, the top blockers to AI rollout are:
 - Data security concerns and unauthorized exposure of sensitive data (68.5%) - lack of labels, guardrails, data protection
 - Employees don't see the value of using AI in their work (64.2%)
 
-![Slide showing the top blockers to AI rollout according to research, emphasizing that data quality issues outweigh change management concerns.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/top-blockers.png)
+![Slide showing the top blockers to AI rollout according to research, emphasizing that data quality issues outweigh change management concerns.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/top-blockers.png)
 
 While 99.5% have invested in AI literacy training, inaccurate outputs and hallucinations still erode employee judgment and decision-making, demonstrating that training alone won't fix trust issues.
 
@@ -144,7 +144,7 @@ At this level, organizations have established processes, training, and governanc
 
 For Copilot to succeed organization-wide, these three competencies must be at Level 300:
 
-![Diagram showing the parallel path where three competencies must reach Level 300 together for Copilot success.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/parallel-path.png)
+![Diagram showing the parallel path where three competencies must reach Level 300 together for Copilot success.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/parallel-path.png)
 
 #### 1. Business Process (Level 300)
 
@@ -161,7 +161,7 @@ For Copilot to succeed organization-wide, these three competencies must be at Le
 
 **Why This Matters:** You cannot automate and work with AI unless you know what you're doing. If core business processes are documented and great, then AI and agents can execute them effectively.
 
-![Slide showing Business Process competency requirements at Level 300, including documented and measured processes.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/business-process-level-300.png)
+![Slide showing Business Process competency requirements at Level 300, including documented and measured processes.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/business-process-level-300.png)
 
 #### 2. Staff & Training (Level 300)
 
@@ -185,7 +185,7 @@ For Copilot to succeed organization-wide, these three competencies must be at Le
 
 **Why This Matters:** If you get an AI expert, they're good at AI but not good at your business. If you don't have information architecture in place, that person will just sit and learn about your business, then know AI - but they can't use it effectively. You need to invest in the people you have right now.
 
-![Slide showing Staff and Training competency requirements at Level 300, including mandatory HR-driven training.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/staff-training-level-300.png)
+![Slide showing Staff and Training competency requirements at Level 300, including mandatory HR-driven training.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/staff-training-level-300.png)
 
 #### 3. Management of Content (Level 300)
 
@@ -208,7 +208,7 @@ For Copilot to succeed organization-wide, these three competencies must be at Le
 
 **Why This Matters:** Bad information architecture compounds at artificial intelligence speed. This is the biggest reason why AI is hallucinating - there's too much irrelevant content out there. AI needs clean, well-organized, properly tagged content to work effectively.
 
-![Slide showing Management of Content competency requirements at Level 300, including metadata, taxonomy, and ROT cleanup.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/content-management-level-300.png)
+![Slide showing Management of Content competency requirements at Level 300, including metadata, taxonomy, and ROT cleanup.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/content-management-level-300.png)
 
 #### Integrated Approach
 
@@ -252,7 +252,7 @@ These three competencies should NOT be three different projects - they should be
 
 At this level, Copilot is widely deployed with mature processes, comprehensive training, and strong governance. The organization treats Copilot as a strategic capability. At this level, agents become part of the workforce and need managers - but not IT managers.
 
-![Slide previewing Level 400 where AI agents become part of the workforce and need business managers, not IT managers.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/agents-need-managers.png)
+![Slide previewing Level 400 where AI agents become part of the workforce and need business managers, not IT managers.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/agents-need-managers.png)
 
 ### 400 Characteristics
 
@@ -315,7 +315,7 @@ At this level, Copilot is fully integrated into the organization's way of workin
 
 **Critical:** Stop measuring the wrong things.
 
-![Slide emphasizing that organizations should stop measuring licenses and prompts, and instead measure business process improvements.](../images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/stop-measuring-wrong-things.png)
+![Slide emphasizing that organizations should stop measuring licenses and prompts, and instead measure business process improvements.](./images/maturity-model-microsoft365-practical-scenarios-copilot-implementation/stop-measuring-wrong-things.png)
 
 According to the AvePoint 2025 AI Report, 89.6% of organizations track usage, but far fewer measure human or business impact. This focus on the wrong metrics is a significant barrier to demonstrating AI value.
 

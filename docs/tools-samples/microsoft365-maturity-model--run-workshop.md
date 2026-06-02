@@ -58,7 +58,7 @@ Six or 12 months later, review progress and set new goals by running some of the
 
 The diagram provides and overview and some further detail.
 
-![Workshop Overview](../images/microsoft365-maturity-model--run-workshop/workship-diagram.png)
+![Workshop Overview](./images/microsoft365-maturity-model--run-workshop/workship-diagram.png)
 
 ### Get approval and buy-in
 
@@ -70,7 +70,7 @@ Some thoughts on getting that important executive support and key stakeholder su
   * Emphasize how it makes life better for individuals in the company, how it removes the 'grit in the machine' and how it protects the organization (and thereby the execs) from financial, compliance and legal risks.
   * Carefully review the MM4M365 Introduction and the definitions of each competency. Now ensure you understand what each Competency Level signifies.
 
-![MM4M365 Levels](../images/microsoft365-maturity-model--run-workshop/mm4m365-levels.png)
+![MM4M365 Levels](./images/microsoft365-maturity-model--run-workshop/mm4m365-levels.png)
 
 ### Run investigative workshops to develop an action plan
 
