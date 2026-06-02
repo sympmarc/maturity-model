@@ -1,5 +1,6 @@
 # Maturity Model for Microsoft 365
-Maturity Model for Microsoft 365
+Maturity Model for Microsoft 365 Pnp Site Repository.
+This repository creates the website content at https://pnp.github.io/maturity-model
 
 ## Build Docs Locally
 
