@@ -21,7 +21,7 @@ ms.collection: M365Community
 
 ## Introduction
 
-The [Communication Competency article](/microsoft-365/community/microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
+The [Communication Competency article](microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
 ## How to move from Initial to Managed (Level 100 to 200)
