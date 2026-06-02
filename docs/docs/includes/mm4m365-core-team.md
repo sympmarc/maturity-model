@@ -5,9 +5,9 @@ The MM4M365 core team has evolved over time and these are the people who have be
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/)
-- [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
-- [Pia Langenkrans](https://www.linkedin.com/in/pialangenkrans/)
-- [Mats Warnolf](https://www.linkedin.com/in/matswarnolf/)
+- [Sharon Weaver, MVP, RD](https://www.linkedin.com/in/sharonweaver/)
+- [Pia Langenkrans, MVP](https://www.linkedin.com/in/pialangenkrans/)
+- [Mats Warnolf, MVP](https://www.linkedin.com/in/matswarnolf/)
 
 **Emeritus**
 
