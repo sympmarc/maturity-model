@@ -17,6 +17,9 @@
         "files": [
           "**/images/**",
           "**/media/**"
+        ],
+        "exclude": [
+          "_site/**"
         ]
       }
     ],
