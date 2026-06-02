@@ -22,7 +22,7 @@ Traditionally, there has been a reliance on 'deep' or 'pro' development to build
 
 Over the years as platforms have evolved, it became increasingly possible for viable business applications to be delivered without code. Today there is a continuum from out of the box, through configuration (No Code), to citizen developer (Low Code) and finally 'proper' development (Pro Code). The separation between these stages can be highly porous; artificially segregating them is frequently meaningless and often counter-productive. Management tools traditionally associated with Pro Code development are gradually providing an opportunity to wrap development rigor around the No Code and Low Code approaches and to introduce many of the effective development operations (DevOps) techniques and tools.
 
-:::image type="content" source="media/microsoft365-maturity-model--customization-and-development/development-spectrum.png" alt-text="Development spectrum":::
+:::image type="content" source="./images/microsoft365-maturity-model--customization-and-development/development-spectrum.png" alt-text="Development spectrum":::
 
 At the same time, even nominally out-of-the-box products and services often support options for customization and extension. The ways of achieving this vary widely, including interaction via Application Programming Interfaces (APIs), 'overlay' coding of UI, deep configuration, Add-ins and more.
 
@@ -48,7 +48,7 @@ Some characteristics should, perhaps, be addressed a little more urgently than o
 
 The customization and development continuum are poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by building in live without going through a release process where development is tested before being put live.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 No Code
 

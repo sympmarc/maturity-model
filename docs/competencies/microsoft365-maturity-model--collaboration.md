@@ -28,7 +28,7 @@ Collaboration is all about people working together to reach a common goal. Withi
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 
 From the days of a knowledge management focus - from which much of the current thinking about collaboration has sprung - we have the paradigm of data turning into information, then into knowledge, then into insight, then into wisdom. Some organizations were able to move along that path, and others were not.
 
@@ -47,7 +47,7 @@ Note: Some characteristics should, perhaps, be addressed a little more urgently 
 
 In many cases, the first move into Microsoft 365 is a simple migration of shared folders on a file server into SharePoint. (This usually follows a migration of email hosting from an on-premises Exchange server to Exchange Online. While this is extremely important, the average end user may not even realize it has happened. At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in-person working.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### Governance, Risk, Compliance and Security
 

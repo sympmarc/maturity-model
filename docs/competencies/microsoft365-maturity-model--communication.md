@@ -36,14 +36,14 @@ Communication professionals will sometimes refer to the [Principles of Communica
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for definitions of the Maturity Model levels.
 Note: Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-**[Initial level](./index.md#level-100---initial)** characteristics include:
+**[Initial level](../index.md#level-100---initial)** characteristics include:
 
 #### 100 Governance, Risk, Compliance & Security
 
