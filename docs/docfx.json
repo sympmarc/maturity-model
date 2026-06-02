@@ -15,21 +15,21 @@
     "resource": [
       {
         "files": [
-          "docs/media/**"
+          "**/images/**"
         ]
       }
     ],
     "output": "_site",
     "template": [
       "default",
-      "docs/templates/material"
+      "templates/material"
     ],
     "globalMetadata": {
       "_appName": "Maturity Model for Microsoft 365",
       "_appTitle": "Maturity Model for Microsoft 365",
       "_enableSearch": true,
       "pdf": false,
-      "_appFaviconPath": "docs/media/favicon.ico",
+      "_appFaviconPath": "media/favicon.ico",
       "_enableNewTab": true
     }
   }

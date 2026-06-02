@@ -1,8 +1,8 @@
 - name: Overview
-  href: overview
+  href: overview/
 - name: Competencies
-  href: competencies
+  href: competencies/
 - name: Practical Scenarios
-  href: practical-scenarios
+  href: practical-scenarios/
 - name: Tools & Samples
-  href: tools-samples
+  href: tools-samples/
