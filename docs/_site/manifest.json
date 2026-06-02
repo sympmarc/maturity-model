@@ -364,31 +364,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/cc-data-platform-banner.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/cc-data-platform-banner.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/cc-data-platform-banner.md",
       "output": {
         ".html": {
           "relative_path": "docs/includes/cc-data-platform-banner.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/community-content-updates.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/community-content-updates.md"
         }
       },
       "version": ""
@@ -404,16 +384,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/content-disclaimer.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/content-disclaimer.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/content-disclaimer.md",
       "output": {
@@ -424,31 +394,11 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-core-team.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/mm4m365-core-team.md"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "docs/includes/mm4m365-core-team.md",
       "output": {
         ".html": {
           "relative_path": "docs/includes/mm4m365-core-team.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/includes/mm4m365-practitioners.md",
-      "output": {
-        "resource": {
-          "relative_path": "docs/includes/mm4m365-practitioners.md"
         }
       },
       "version": ""
