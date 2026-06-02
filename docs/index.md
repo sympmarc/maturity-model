@@ -132,7 +132,7 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 [Origin of the Maturity Model for Microsoft 365](overview/microsoft365-maturity-model--origin-story.md)
 
-[!INCLUDE [mm4m365-practitioners](../includes/mm4m365-practitioners.md)]
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
 ---
 
@@ -146,4 +146,4 @@ Our goal is to apply the same core competencies that were the core of the origin
 
 ---
 
-[!INCLUDE [mm4m365-core-team](../includes/mm4m365-core-team.md)]
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

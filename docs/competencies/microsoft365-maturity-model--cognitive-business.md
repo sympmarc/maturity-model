@@ -73,7 +73,7 @@ Some characteristics should, perhaps, be addressed a little more urgently than o
 
 Organizations at this level are unaware of, uninterested in or dismissive of AI supported cognitive business. They rely on their staff to maintain their competitiveness and do not perceive an opportunity or threat to the way they currently operate. Knowledge worker tasks are delivered by staff.
 
-**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
+**[Initial level](./index.md#level-100---initial)** characteristics include:
 
 #### 100 General
 
@@ -108,7 +108,7 @@ AI has no direct, measurable impact, which may mean that disruption, when it com
 
 There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through the configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](../index.md#level-200---managed)** characteristics include:
 
 #### 200 General
 
@@ -151,7 +151,7 @@ At level 300, the organization is actively considering how to enhance its knowle
 
 ![AI value](./images/microsoft365-maturity-model-cognitive-business/AI-value.jpg)
 
-**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
+**[Defined level](../index.md#level-300---defined)** characteristics include:
 
 #### 300 General
 
@@ -201,7 +201,7 @@ Staff will be expected to use AI tools and productivity gains will be measured.
 
 There are processes to build, deploy, integrate, and manage AI alongside staff in many areas of the organization. A clear process exists to accelerate AI integration into existing processes, along with budget commitments. There are mechanisms to manage and monitor AIs that are similar in importance and effect to those used with staff. Feedback processes and performance metrics drive improvements. The organization’s culture accepts and understands the role of AI and the relationship between staff and their AI tools. The organization uses its skills as a flexible cognitive business to create efficiency and business advantage.
 
-**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](../index.md#level-400---predictable)** characteristics include:
 
 #### 400 General
 
@@ -257,7 +257,7 @@ Staff and processes are productive, though there may be concerns about resilienc
 
 Cognitive business has reached the stage of being a natural, continuous flow of interaction between staff and machines. Ethical and GRC issues are effectively monitored against a well-established framework and feedback, retraining and horizon scanning maintain this. Highly capable AIs interface with most parts of the organization and are capable of a large range of tasks working in collaboration with human staff.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
+**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
 
 #### 500 General
 

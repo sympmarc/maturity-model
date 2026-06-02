@@ -37,7 +37,7 @@ See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 You might recognize this one. Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories or Excel spreadsheets (which, to be fair, can be surprisingly useful during IT incidents). There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
 
-**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
+**[Initial level](./index.md#level-100---initial)** characteristics include:
 
 #### 100 User Experience
 
@@ -79,7 +79,7 @@ Systems may exist to support identifying who works in the organization and in wh
 
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](../index.md#level-200---managed)** characteristics include:
 
 #### 200 User Experience
 
@@ -118,7 +118,7 @@ At this level you can expect the following:
 
 ### Level 300 - Defined
 
-This is where things start to click. **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
+This is where things start to click. **[Defined level](../index.md#level-300---defined)** characteristics include:
 
 #### 300 User Experience
 
@@ -168,7 +168,7 @@ At this level you can expect the following:
 
 ### Level 400 - Predictable
 
-**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](../index.md#level-400---predictable)** characteristics include:
 
 #### 400 User Experience
 
@@ -215,7 +215,7 @@ At this level you can expect the following:
 
 ### Level 500 - Optimizing
 
-This is where you want to be. **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
+This is where you want to be. **[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
 
 #### 500 User Experience
 

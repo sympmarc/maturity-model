@@ -524,8 +524,8 @@ Regardless of where your organization is today, you can take action to improve s
 ## Related Documents
 
 - [Security Competency](microsoft365-maturity-model-security.md)
-- [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
-- [How to Run a Maturity Model Workshop](microsoft365-maturity-model--run-workshop.md)
+- [Maturity Model for Microsoft 365 - Introduction](../index.md)
+- [How to Run a Maturity Model Workshop](../tools-samples/microsoft365-maturity-model--run-workshop.md)
 - [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 - [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
 
