@@ -14,9 +14,9 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Introduction
 
-[!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
+[!INCLUDE [content-disclaimer](./includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](../media/M365MM.png)
+![Maturity Model for Microsoft 365](./media/M365MM.png)
 
 ## Purpose
 
