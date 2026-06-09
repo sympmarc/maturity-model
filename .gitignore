@@ -1,11 +1,56 @@
-###############
-#    folder   #
-###############
-/**/DROP/
-/**/TEMP/
-/**/packages/
-/**/bin/
-/**/obj/
-/**/_site/
-/**/_site/**
-demos
+# -----------------------------
+# DocFX outputs
+# -----------------------------
+_site/
+_site_pdf/
+
+# Prevent recursive builds contamination
+_site/**
+
+# -----------------------------
+# Generated doc artifacts
+# -----------------------------
+api/*.yml
+api/.manifest
+docs/api/
+
+# -----------------------------
+# Build / temp / cache
+# -----------------------------
+bin/
+obj/
+drop/
+temp/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+*.cache
+*.binlog
+
+# -----------------------------
+# IDE / developer-specific
+# -----------------------------
+.vs/
+.vscode/
+*.user
+*.suo
+*.code-workspace
+.idea/
+
+# -----------------------------
+# OS junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Node / front-end tooling
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Test / output folders
+# -----------------------------
+TestResults/
