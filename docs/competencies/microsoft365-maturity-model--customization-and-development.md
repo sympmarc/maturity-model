@@ -48,7 +48,7 @@ Some characteristics should, perhaps, be addressed a little more urgently than o
 
 The customization and development continuum are poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by building in live without going through a release process where development is tested before being put live.
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 No Code
 
@@ -108,7 +108,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 
 Development is characterized by _build to live, though there may be some testing and control within that environment._
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 No Code
 
@@ -159,7 +159,7 @@ There is an appreciation of the limits of the no-code approach, low-code and pro
 
 Staff are generally satisfied with functionality but struggle to consistently get non-critical feature gaps, inconsistencies and updates rolled out. Support is generally available.
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 No Code
 
@@ -218,7 +218,7 @@ There are clear processes and decision support for solution design and road-mapp
 
 Staff are able to work efficiently across the spectrum of solutions and adopt new solutions readily due to their consistency and interoperability. Support-driven insights are used to proactively feedback to solution teams to drive improvements. Upcoming changes are communicated clearly and well in advance.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 No Code
 
@@ -280,7 +280,7 @@ Design decisions are routinely reviewed for effectiveness and learning is applie
 
 The effectiveness of solutions is continually assessed via a range of metrics to optimize staff productivity and to ensure agility for changing needs.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 No Code
 

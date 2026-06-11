@@ -79,7 +79,7 @@ Organizations at level 100 maturity pay little attention to compliance and are c
 
 The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring of GRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### People and Culture (100)
 
@@ -132,7 +132,7 @@ At level 200 maturity an organization tends to believe governance and compliance
 
 At this maturity level organizations acknowledge compliance regulations and standards. However, organizations may take a ‘tick box’ approach to Governance, Risk and Compliance (GRC). Policies have been written, intended to avoid the damages that level 100 organizations can face, but the polices are not enforced in the organization.
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### People and Culture (200)
 
@@ -191,7 +191,7 @@ A baseline compliance framework is implemented with a standardized set of polici
 
 Processes measured and controlled
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### People and Culture (300)
 
@@ -263,7 +263,7 @@ The Compliance framework is now tailored to include an up-to-date and accurate c
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### People and Culture (400)
 
@@ -341,7 +341,7 @@ Compliance is embedded in the organization and business activities are ‘compli
 
 Organizations at this level use technology strategically to gain operational efficiencies, greater visibility into their operations, reduce risks, and drive down compliance costs. Tools are integrated in order to monitor controls and gain insights into their governance, risk and compliance program.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### People and Culture (500)
 

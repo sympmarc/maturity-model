@@ -34,7 +34,7 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g., certified Continuous Process Improvement expert) leading the charge to use technology to make improvements.
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 General
 
@@ -74,7 +74,7 @@ At this level you can expect the following:
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 General
 
@@ -114,7 +114,7 @@ At this level you can expect the following:
 
 Organizations at this level are using M365 to manage business process across multiple lines of business, and consistently across locations.
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 General
 
@@ -152,7 +152,7 @@ At this level you can expect the following:
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 General
 - Workflows on the platform may have connectivity to LOB systems.
@@ -189,7 +189,7 @@ At this level you can expect the following:
 
 Organizations at this level are using the M365 platform optimally to automate their processes, and are focused on feedback and continuous improvement. The goals/metrics are being achieved on a regular basis, and there is both objective data and anecdotal evidence to support the success of the solution.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 General
 - Power users can edit existing workflows to adapt them to changing business needs on the fly with an understanding of the implications of these changes.

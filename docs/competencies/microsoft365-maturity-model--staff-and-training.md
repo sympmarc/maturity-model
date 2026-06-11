@@ -35,7 +35,7 @@ See the [Maturity Model for Microsoft 365 - Introduction](../index.md) for defin
 
 Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the "Wild West Adoption Model."
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 User Experience
 
@@ -56,7 +56,7 @@ At this level, the focus is on improving the break/fix (tier 1) support by docum
 
 As the system is growing in usage, some of the end users who are responsible for their own content have received one-off training. Training is focused on power users using the solutions and has not been launched to the entire organization yet. Some level of departmental or functional expertise begins to develop, and people start to know who the experts are to turn to.
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 User Experience
 
@@ -77,7 +77,7 @@ Content owners may begin to share the message of positive impacts of the solutio
 
 The organization is actively using the solution(s) with a training plan in place for all new and existing employees. The training is focused on how to use the system specific to interacting with the interface and accomplishing basic tasks. This training helps raise the technical literacy of the organization as users begin consistently using the solution as intended. The established training also reduces silo solutioning with unsupported products, or misuse of the solution.
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 User Experience
 
@@ -104,7 +104,7 @@ The training plan for Microsoft 365 and the related solutions is viewed as a sui
 
 Now that the IT support staff has expanded, there are opportunities for the business to receive coaching, guidance, and innovation on their existing business processes in partnership with the IT department. The IT support staff have begun to proactively share updates and changes coming in the system to better involve business need in their strategic decisions. This involvement with the business reflects increased understanding in the platform and the organizational importance of developing business processes with the available enterprise solutions.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Process
 
@@ -149,7 +149,7 @@ Business involvement in the Microsoft 365 platform and solutions has grown well 
 
 The most common support scripts and training content are developed with Chatbot and AI technology, allowing IT staff to focus on escalations, proactive initiatives, and reducing the amount of time spent on break/fix. Support ticket analytics are reviewed on a scheduled cadence to identify and prioritize closure of training gaps, minimizing employee downtime, and increasing organizational productivity.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 User Experience
 

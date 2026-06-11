@@ -103,7 +103,7 @@ Types of content cover but are not limited to the following:
 
 The entry point for most organizations. There are no standards defined for how content is identified, presented or structured. The content is either stored all over the place or in one big bucket which makes it difficult for people to find.
 There is a lot of frustration at this level because people spend a lot of time finding content that they know is there.
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 Lifecycle Management
 
@@ -164,7 +164,7 @@ At this level you can expect the following:
 
 ### Level 200 - Managed
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Lifecycle Management
 
@@ -229,7 +229,7 @@ At this level you can expect the following:
 
 ### Level 300 - Defined
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 Lifecycle Management
 
@@ -284,7 +284,7 @@ At this level you can expect the following:
 
 ### Level 400 - Predictable
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Lifecycle Management
 
@@ -345,7 +345,7 @@ At this level you can expect the following:
 
 ### Level 500 - Optimizing
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 Lifecycle Management
 

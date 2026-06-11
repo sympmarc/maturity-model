@@ -43,7 +43,7 @@ Note: Some characteristics should, perhaps, be addressed a little more urgently 
 
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### 100 Governance, Risk, Compliance & Security
 
@@ -80,7 +80,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -110,7 +110,7 @@ At this level, communications often don’t follow expected layouts, style, and 
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 Governance, Risk, Compliance & Security
 
@@ -143,7 +143,7 @@ Users experience consistency in core communication and know where to go for spec
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
@@ -175,7 +175,7 @@ At this level, users have a high degree of trust in organizational communication
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level](../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 Governance, Risk, Compliance & Security
 

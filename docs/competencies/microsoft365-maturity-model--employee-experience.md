@@ -78,7 +78,7 @@ It is useful to categorize Employee Experience into 4 sub-competencies:
 
 This is the starting level for a new or dysfunctional organization. Strategy may appear to be absent; plans lack consistency or conviction and staff and leadership operate with a sense of unease or evident chaos characterized by firefighting and tension.
 
-**[Initial level](../index.md#level-100---initial)** characteristics include:
+**[Initial level]../overview/microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### Connection (100)
 
@@ -136,7 +136,7 @@ There is often high absenteeism.
 
 There are efforts to ensure that the company strategy is trickled down to staff. The strategy may lack clarity or resonance with employees, or may not be translated into actions they feel they can engage in. There is a sense of 'in this together' but it is characterized by fighting against the issues rather than pulling towards the goals. Managers have an understanding that staff should have good experiences and gel as a team but are unclear how to achieve this.
 
-**[Managed level](../index.md#level-200---managed)** characteristics include:
+**[Managed level]../overview/microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Connection (200)
 
@@ -192,7 +192,7 @@ The organization begins to recognize that positive impacts are related to the ch
 
 The organization understands the key drivers of Employee Experience.
 
-**[Defined level](../index.md#level-300---defined)** characteristics include:
+**[Defined level]../overview/microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Connection (300)
 
@@ -259,7 +259,7 @@ The organization begins to see positive impacts on areas like profitability, pro
 
 Employee Experience is a core activity for the organization, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
 
-**[Predictable level](../index.md#level-400---predictable)** characteristics include:
+**[Predictable level]../overview/microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Connection (400)
 
@@ -323,7 +323,7 @@ These high levels of employee engagement have a significant impact on the organi
 
 Employee Experience is pervasive in the organization, from shop floor staff to the board room; with everyone equally engaged. Analysis, AI, and staff contribute to and drive the experience strategy and tactics, with adaptive plans and a self-reinforcing culture anchored in shared goals and vision. Staff are curious, knowledgeable, and contribute to sophisticated knowledge management.
 
-**[Optimizing level](../index.md#level-500---optimizing)** characteristics include:
+**[Optimizing level]../overview/microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Connection (500)
 
